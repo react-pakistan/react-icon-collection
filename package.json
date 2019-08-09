@@ -1,0 +1,27 @@
+{
+  "name": "react-icon-collection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taimoormk/react-icon-collection.git"
+  },
+  "author": "Taimoor Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Taimoormk/react-icon-collection/issues"
+  },
+  "homepage": "https://github.com/Taimoormk/react-icon-collection#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@storybook/react": "^5.1.10",
+    "babel-loader": "^8.0.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
