@@ -1,4 +1,8 @@
-import { configure } from '@storybook/react';
+import { configure, addDecorator } from '@storybook/react';
+import { withKnobs } from '@storybook/addon-knobs';
+
+/* Decorators configuration */
+addDecorator(withKnobs);
 
 function loadStories() {
   const req = require.context('../stories', true, /\.stories\.js$/);
