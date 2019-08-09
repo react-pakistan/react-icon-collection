@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Taimoormk/react-icon-collection/issues"
   },
-  "homepage": "https://github.com/Taimoormk/react-icon-collection#readme"
+  "homepage": "https://github.com/Taimoormk/react-icon-collection#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@storybook/react": "^5.1.10",
+    "babel-loader": "^8.0.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
 }
