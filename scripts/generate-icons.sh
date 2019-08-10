@@ -1,3 +1,15 @@
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/spring-grey --ext tsx assets/spring-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/spring-color --ext tsx assets/spring-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/sweet-17-grey --ext tsx assets/sweet-17-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/sweet-17-color --ext tsx assets/sweet-17-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/time-grey --ext tsx assets/time-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/time-color --ext tsx assets/time-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/travel-grey --ext tsx assets/travel-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/travel-color --ext tsx assets/travel-color
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/valentine-grey --ext tsx assets/valentine-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/valentine-color --ext tsx assets/valentine-color
 
