@@ -1,9 +1,11 @@
 import { configure, addDecorator, addParameters } from '@storybook/react';
 import { withKnobs } from '@storybook/addon-knobs';
 import { INITIAL_VIEWPORTS } from '@storybook/addon-viewport';
+import { withA11y } from '@storybook/addon-a11y';
 
 /* Decorators configuration */
 addDecorator(withKnobs);
+addDecorator(withA11y);
 addParameters({
   viewport: {
     viewports: {
