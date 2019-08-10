@@ -38,6 +38,19 @@ export const ICON_LIST = [
   fs.writeFileSync(iconIndexFile, iconIndexOutput);
   fs.writeFileSync(iconListForStory, iconListOutput);
 };
+
+generate("spring-grey", "./src/icons/__stories__/components/spring-grey-list.ts");
+generate("spring-color", "./src/icons/__stories__/components/spring-color-list.ts");
+
+generate("sweet-17-grey", "./src/icons/__stories__/components/sweet-17-grey-list.ts");
+generate("sweet-17-color", "./src/icons/__stories__/components/sweet-17-color-list.ts");
+
+generate("time-grey", "./src/icons/__stories__/components/time-grey-list.ts");
+generate("time-color", "./src/icons/__stories__/components/time-color-list.ts");
+
+generate("travel-grey", "./src/icons/__stories__/components/travel-grey-list.ts");
+generate("travel-color", "./src/icons/__stories__/components/travel-color-list.ts");
+
 generate("valentine-grey", "./src/icons/__stories__/components/valentine-grey-list.ts");
 generate("valentine-color", "./src/icons/__stories__/components/valentine-color-list.ts");
 
