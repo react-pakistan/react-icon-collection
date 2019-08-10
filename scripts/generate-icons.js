@@ -40,3 +40,4 @@ export const ICON_LIST = [
 };
 
 generate("zoo-grey", "./src/icons/__stories__/components/zoo-grey-list.ts");
+generate("zoo-color", "./src/icons/__stories__/components/zoo-color-list.ts");
