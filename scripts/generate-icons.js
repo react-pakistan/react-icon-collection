@@ -39,6 +39,15 @@ export const ICON_LIST = [
   fs.writeFileSync(iconListForStory, iconListOutput);
 };
 
+generate("shopping-grey", "./src/icons/__stories__/components/shopping-grey-list.ts");
+generate("shopping-color", "./src/icons/__stories__/components/shopping-color-list.ts");
+
+generate("skull-grey", "./src/icons/__stories__/components/skull-grey-list.ts");
+generate("skull-color", "./src/icons/__stories__/components/skull-color-list.ts");
+
+generate("space-grey", "./src/icons/__stories__/components/space-grey-list.ts");
+generate("space-color", "./src/icons/__stories__/components/space-color-list.ts");
+
 generate("spring-grey", "./src/icons/__stories__/components/spring-grey-list.ts");
 generate("spring-color", "./src/icons/__stories__/components/spring-color-list.ts");
 

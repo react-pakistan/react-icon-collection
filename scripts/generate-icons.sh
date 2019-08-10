@@ -1,3 +1,12 @@
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/shopping-grey --ext tsx assets/shopping-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/shopping-color --ext tsx assets/shopping-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/skull-grey --ext tsx assets/skull-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/skull-color --ext tsx assets/skull-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/space-grey --ext tsx assets/space-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/space-color --ext tsx assets/space-color
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/spring-grey --ext tsx assets/spring-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/spring-color --ext tsx assets/spring-color
 
