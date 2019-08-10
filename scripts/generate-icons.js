@@ -39,4 +39,8 @@ export const ICON_LIST = [
   fs.writeFileSync(iconListForStory, iconListOutput);
 };
 
+generate("virtual-reality-grey", "./src/icons/__stories__/components/virtual-reality-grey-list.ts");
+generate("virtual-reality-color", "./src/icons/__stories__/components/virtual-reality-color-list.ts");
+
 generate("zoo-grey", "./src/icons/__stories__/components/zoo-grey-list.ts");
+generate("zoo-color", "./src/icons/__stories__/components/zoo-color-list.ts");
