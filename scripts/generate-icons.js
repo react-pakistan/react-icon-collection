@@ -39,6 +39,14 @@ export const ICON_LIST = [
   fs.writeFileSync(iconListForStory, iconListOutput);
 };
 
+generate("mobile-ui-grey", "./src/icons/__stories__/components/mobile-ui-grey-list.ts");
+
+generate("music-grey", "./src/icons/__stories__/components/music-grey-list.ts");
+generate("music-color", "./src/icons/__stories__/components/music-color-list.ts");
+
+generate("security-grey", "./src/icons/__stories__/components/security-grey-list.ts");
+generate("security-color", "./src/icons/__stories__/components/security-color-list.ts");
+
 generate("shopping-grey", "./src/icons/__stories__/components/shopping-grey-list.ts");
 generate("shopping-color", "./src/icons/__stories__/components/shopping-color-list.ts");
 

@@ -1,3 +1,11 @@
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/mobile-ui-grey --ext tsx assets/mobile-ui-grey
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/music-grey --ext tsx assets/music-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/music-color --ext tsx assets/music-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/security-grey --ext tsx assets/security-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/security-color --ext tsx assets/security-color
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/shopping-grey --ext tsx assets/shopping-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/shopping-color --ext tsx assets/shopping-color
 
