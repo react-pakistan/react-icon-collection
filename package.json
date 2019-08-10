@@ -22,6 +22,7 @@
     "@storybook/addon-a11y": "^5.1.10",
     "@storybook/addon-actions": "^5.1.10",
     "@storybook/addon-backgrounds": "^5.1.10",
+    "@storybook/addon-info": "^5.1.10",
     "@storybook/addon-knobs": "^5.1.10",
     "@storybook/addon-links": "^5.1.10",
     "@storybook/addon-notes": "^5.1.10",
