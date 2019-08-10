@@ -1,3 +1,6 @@
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/valentine-grey --ext tsx assets/valentine-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/valentine-color --ext tsx assets/valentine-color
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/virtual-reality-grey --ext tsx assets/virtual-reality-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/virtual-reality-color --ext tsx assets/virtual-reality-color
 

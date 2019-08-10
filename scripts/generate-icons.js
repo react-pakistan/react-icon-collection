@@ -38,6 +38,8 @@ export const ICON_LIST = [
   fs.writeFileSync(iconIndexFile, iconIndexOutput);
   fs.writeFileSync(iconListForStory, iconListOutput);
 };
+generate("valentine-grey", "./src/icons/__stories__/components/valentine-grey-list.ts");
+generate("valentine-color", "./src/icons/__stories__/components/valentine-color-list.ts");
 
 generate("virtual-reality-grey", "./src/icons/__stories__/components/virtual-reality-grey-list.ts");
 generate("virtual-reality-color", "./src/icons/__stories__/components/virtual-reality-color-list.ts");
