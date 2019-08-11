@@ -38,6 +38,27 @@ export const ICON_LIST = [
   fs.writeFileSync(iconIndexFile, iconIndexOutput);
   fs.writeFileSync(iconListForStory, iconListOutput);
 };
+generate("green-energy-color", "./src/icons/__stories__/components/green-energy-color-list.ts");
+
+generate("helmet-grey", "./src/icons/__stories__/components/helmet-grey-list.ts");
+
+generate("home-grey", "./src/icons/__stories__/components/home-grey-list.ts");
+generate("home-color", "./src/icons/__stories__/components/home-color-list.ts");
+
+generate("kitchen-grey", "./src/icons/__stories__/components/kitchen-grey-list.ts");
+generate("kitchen-color", "./src/icons/__stories__/components/kitchen-color-list.ts");
+
+generate("knife-grey", "./src/icons/__stories__/components/knife-grey-list.ts");
+generate("knife-color", "./src/icons/__stories__/components/knife-color-list.ts");
+
+generate("law-grey", "./src/icons/__stories__/components/law-grey-list.ts");
+generate("law-color", "./src/icons/__stories__/components/law-color-list.ts");
+
+generate("leaf-grey", "./src/icons/__stories__/components/leaf-grey-list.ts");
+generate("leaf-color", "./src/icons/__stories__/components/leaf-color-list.ts");
+
+generate("lumberjack-grey", "./src/icons/__stories__/components/lumberjack-grey-list.ts");
+generate("lumberjack-color", "./src/icons/__stories__/components/lumberjack-color-list.ts");
 
 generate("mobile-ui-grey", "./src/icons/__stories__/components/mobile-ui-grey-list.ts");
 
