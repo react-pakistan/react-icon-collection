@@ -1,3 +1,25 @@
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/green-energy-color --ext tsx assets/green-energy-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/helmet-grey --ext tsx assets/helmet-grey
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/home-grey --ext tsx assets/home-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/home-color --ext tsx assets/home-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/kitchen-grey --ext tsx assets/kitchen-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/kitchen-color --ext tsx assets/kitchen-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/knife-grey --ext tsx assets/knife-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/knife-color --ext tsx assets/knife-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/law-grey --ext tsx assets/law-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/law-color --ext tsx assets/law-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/leaf-grey --ext tsx assets/leaf-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/leaf-color --ext tsx assets/leaf-color
+
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/lumberjack-grey --ext tsx assets/lumberjack-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/lumberjack-color --ext tsx assets/lumberjack-color
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/mobile-ui-grey --ext tsx assets/mobile-ui-grey
 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/music-grey --ext tsx assets/music-grey
