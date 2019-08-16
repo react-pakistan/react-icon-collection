@@ -17,6 +17,9 @@ svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/leaf-grey --ext tsx assets/leaf-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/leaf-color --ext tsx assets/leaf-color
 
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/logistics-grey --ext tsx assets/logistics-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/logistics-color --ext tsx assets/logistics-color
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/lumberjack-grey --ext tsx assets/lumberjack-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/lumberjack-color --ext tsx assets/lumberjack-color
 
