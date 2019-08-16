@@ -57,6 +57,9 @@ generate("law-color", "./src/icons/__stories__/components/law-color-list.ts");
 generate("leaf-grey", "./src/icons/__stories__/components/leaf-grey-list.ts");
 generate("leaf-color", "./src/icons/__stories__/components/leaf-color-list.ts");
 
+generate("logistics-grey", "./src/icons/__stories__/components/logistics-grey-list.ts");
+generate("logistics-color", "./src/icons/__stories__/components/logistics-color-list.ts");
+
 generate("lumberjack-grey", "./src/icons/__stories__/components/lumberjack-grey-list.ts");
 generate("lumberjack-color", "./src/icons/__stories__/components/lumberjack-color-list.ts");
 
