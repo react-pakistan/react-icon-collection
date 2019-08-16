@@ -25,6 +25,9 @@ svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/music-grey --ext tsx assets/music-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/music-color --ext tsx assets/music-color
 
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/office-grey --ext tsx assets/office-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/office-color --ext tsx assets/office-color
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/security-grey --ext tsx assets/security-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/security-color --ext tsx assets/security-color
 

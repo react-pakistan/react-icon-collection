@@ -65,6 +65,9 @@ generate("mobile-ui-grey", "./src/icons/__stories__/components/mobile-ui-grey-li
 generate("music-grey", "./src/icons/__stories__/components/music-grey-list.ts");
 generate("music-color", "./src/icons/__stories__/components/music-color-list.ts");
 
+generate("office-grey", "./src/icons/__stories__/components/office-grey-list.ts");
+generate("office-color", "./src/icons/__stories__/components/office-color-list.ts");
+
 generate("security-grey", "./src/icons/__stories__/components/security-grey-list.ts");
 generate("security-color", "./src/icons/__stories__/components/security-color-list.ts");
 
