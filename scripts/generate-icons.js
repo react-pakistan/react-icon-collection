@@ -38,6 +38,9 @@ export const ICON_LIST = [
   fs.writeFileSync(iconIndexFile, iconIndexOutput);
   fs.writeFileSync(iconListForStory, iconListOutput);
 };
+generate("business-grey", "./src/icons/__stories__/components/business-grey-list.ts");
+generate("business-color", "./src/icons/__stories__/components/business-color-list.ts");
+
 generate("green-energy-color", "./src/icons/__stories__/components/green-energy-color-list.ts");
 
 generate("helmet-grey", "./src/icons/__stories__/components/helmet-grey-list.ts");
