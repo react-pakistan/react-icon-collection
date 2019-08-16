@@ -60,6 +60,8 @@ generate("leaf-color", "./src/icons/__stories__/components/leaf-color-list.ts");
 generate("lumberjack-grey", "./src/icons/__stories__/components/lumberjack-grey-list.ts");
 generate("lumberjack-color", "./src/icons/__stories__/components/lumberjack-color-list.ts");
 
+generate("medical-grey", "./src/icons/__stories__/components/medical-grey-list.ts");
+
 generate("mobile-ui-grey", "./src/icons/__stories__/components/mobile-ui-grey-list.ts");
 
 generate("music-grey", "./src/icons/__stories__/components/music-grey-list.ts");

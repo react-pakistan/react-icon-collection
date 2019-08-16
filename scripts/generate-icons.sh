@@ -20,6 +20,8 @@ svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/lumberjack-grey --ext tsx assets/lumberjack-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/lumberjack-color --ext tsx assets/lumberjack-color
 
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/medical-grey --ext tsx assets/medical-grey
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/mobile-ui-grey --ext tsx assets/mobile-ui-grey
 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/music-grey --ext tsx assets/music-grey
