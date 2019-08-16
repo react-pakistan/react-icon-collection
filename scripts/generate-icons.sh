@@ -1,3 +1,6 @@
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/business-grey --ext tsx assets/business-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/business-color --ext tsx assets/business-color
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/green-energy-color --ext tsx assets/green-energy-color
 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/helmet-grey --ext tsx assets/helmet-grey
