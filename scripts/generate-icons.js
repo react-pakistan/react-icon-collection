@@ -48,6 +48,8 @@ generate("brands-grey", "./src/icons/__stories__/components/brands-grey-list.ts"
 generate("business-grey", "./src/icons/__stories__/components/business-grey-list.ts");
 generate("business-color", "./src/icons/__stories__/components/business-color-list.ts");
 
+generate("food-dishes-color", "./src/icons/__stories__/components/food-dishes-color-list.ts");
+
 generate("green-energy-color", "./src/icons/__stories__/components/green-energy-color-list.ts");
 
 generate("helmet-grey", "./src/icons/__stories__/components/helmet-grey-list.ts");
