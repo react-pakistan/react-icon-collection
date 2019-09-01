@@ -40,6 +40,8 @@ export const ICON_LIST = [
 };
 generate("4thofjuly-grey", "./src/icons/__stories__/components/4thofjuly-grey-list.ts");
 
+generate("brands-grey", "./src/icons/__stories__/components/brands-grey-list.ts");
+
 generate("business-grey", "./src/icons/__stories__/components/business-grey-list.ts");
 generate("business-color", "./src/icons/__stories__/components/business-color-list.ts");
 
