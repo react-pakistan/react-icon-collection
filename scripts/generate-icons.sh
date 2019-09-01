@@ -1,5 +1,8 @@
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/4thofjuly-grey --ext tsx assets/4thofjuly-grey
 
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/blockchain-grey --ext tsx assets/blockchain-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/icons/blockchain-color --ext tsx assets/blockchain-color
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/brands-grey --ext tsx assets/brands-grey
 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/business-grey --ext tsx assets/business-grey
