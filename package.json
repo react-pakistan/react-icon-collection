@@ -1,7 +1,7 @@
 {
   "name": "@react-pakistan/react-icon-collection",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Icons Collection built upon React StoryBook",
   "module": "lib/index.js",
   "main": "lib/index.js",
   "types": "index.d.tsx",
@@ -30,8 +30,10 @@
   },
   "keywords": [
     "4thofjuly",
+    "block chain",
     "brands",
     "business",
+    "food dishes",
     "green energy",
     "helmet",
     "home",
