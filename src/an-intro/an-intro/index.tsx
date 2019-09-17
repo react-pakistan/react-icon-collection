@@ -1,6 +1,5 @@
 import React from 'react';
 import { IconMobileUiGrey3 } from '../../icons/mobile-ui-grey';
-import { ProjectIntroContainer, ProjectHeadingContainer, MaintainerHeadingContainer } from './styles';
 import { Grid } from '@react-pakistan/react-commons-collection/commons/grid';
 import { Image } from '@react-pakistan/react-commons-collection/commons/image';
 import { H3 } from '@react-pakistan/react-commons-collection/commons/h3';
@@ -10,13 +9,12 @@ import { Spacer } from '@react-pakistan/react-commons-collection/commons/spacer'
 import { BackgroundImage } from '@react-pakistan/react-commons-collection/commons/background-image';
 import { Text } from '@react-pakistan/react-commons-collection/commons/text';
 import { A } from '@react-pakistan/react-commons-collection/commons/a';
-import { SocialShare, ISocialShare } from '@react-pakistan/react-commons-collection/commons/social-share';
+import { ProjectIntroContainer, ProjectHeadingContainer, MaintainerHeadingContainer } from './styles';
 import { theme } from '../../theme';
 
 export const ProjectIntro = ({
   banners,
   maintainers,
-  socialIcons,
 } : IProjectIntroProps) : JSX.Element => (
   <ProjectIntroContainer>
     <Grid
@@ -173,10 +171,6 @@ export const ProjectIntro = ({
           </Grid>
         ))}
       </Grid>
-      <Spacer margin="1em 0" />
-      <SocialShare
-        socialIcons={socialIcons}
-      />
   </ProjectIntroContainer>
 );
 
@@ -197,8 +191,4 @@ export interface IProjectIntroProps {
    *
    */
   maintainers : Array<IMaintainer>;
-  /**
-   *
-   */
-  socialIcons : Array<ISocialShare>;
 }
