@@ -157,15 +157,16 @@ export const ProjectIntro = ({
                 {maintainer.designation}
               </Text>
               <Spacer margin="0.5em 0em"/>
-              {maintainer.url && (<A
-                href={maintainer.url}
-                target="_blank"
-              >
-                <IconMobileUiGrey3
-                  fontSize="32px"
-                  color="#2E2E2E"
-                />
-              </A>
+              {maintainer.url && (
+                <A
+                  href={maintainer.url}
+                  target="_blank"
+                >
+                  <IconMobileUiGrey3
+                    fontSize="32px"
+                    color="#2E2E2E"
+                  />
+                </A>
               )}
             </MaintainerHeadingContainer>
           </Grid>
