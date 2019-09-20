@@ -56,7 +56,7 @@ module.exports = {
               configFileName : "tsconfig.storybook.json",
               getCustomTransformers: () => ({ before: [
                 createStyledComponentsTransformer({
-                  getDisplayName: (filename, bindingName) => `${path.basename(filename)}__${bindingName}`,
+                  getDisplayName: (filename, bindingName) => `${bindingName}`,
                 }),
               ] }),
             },

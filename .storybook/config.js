@@ -3,13 +3,11 @@ import { withKnobs } from "@storybook/addon-knobs";
 import { INITIAL_VIEWPORTS } from "@storybook/addon-viewport";
 import { withA11y } from "@storybook/addon-a11y";
 import { withInfo } from "@storybook/addon-info";
-// import { addReadme } from "storybook-readme";
 import customTheme from "./customTheme";
 
 /* Decorators configuration */
 addDecorator(withKnobs);
 addDecorator(withA11y);
-// addDecorator(addReadme);
 addDecorator(withInfo({
   header: false,
   text: "React Pakistan - Icon Collection",
@@ -29,9 +27,7 @@ addParameters({
   },
 });
 
-function loadStories() {
-  const req = require.context("../src", true, /\.story\.tsx$/);
-  req.keys().forEach(filename => req(filename));
-}
-
-configure(loadStories, module);
+configure([
+  require.context("../src", true, /\.story\.tsx$/),
+  require.context("../src", true, /\.story\.mdx$/),
+], module);

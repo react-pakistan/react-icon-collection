@@ -1,6 +1,6 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
-import { array } from '@storybook/addon-knobs';
+import { object } from '@storybook/addon-knobs';
 import { StyledStory } from '../../../styled-app';
 import { ProjectIntro, IProjectIntroProps, IBanner, IMaintainer } from '../../an-intro';
 
@@ -45,8 +45,8 @@ const maintainers : Array<IMaintainer> = [
 ];
 
 export const projectIntroProps = () : IProjectIntroProps => ({
-  banners: array('banners', banners),
-  maintainers: array('maintainers', maintainers),
+  banners: object('banners', banners),
+  maintainers: object('maintainers', maintainers),
 });
 
 stories.add(
