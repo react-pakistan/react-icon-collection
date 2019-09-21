@@ -64,6 +64,14 @@ module.exports = {
         ],
       },
       {
+        test: /\.tsx?$/,
+        include: path.resolve(__dirname, "../src/an-intro"),
+        use: [
+          require.resolve("ts-loader"),
+          require.resolve("react-docgen-typescript-loader"),
+        ],
+      },
+      {
         test: /\.scss$/,
         use: [
           "style-loader",
