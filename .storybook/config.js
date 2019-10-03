@@ -10,7 +10,7 @@ addDecorator(withKnobs);
 addDecorator(withA11y);
 addDecorator(withInfo({
   header: false,
-  text: "React Pakistan - Icon Collection",
+  text: "React Pakistan - React Icon Collection",
   inline: true,
 }));
 addParameters({
