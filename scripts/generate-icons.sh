@@ -37,6 +37,8 @@ svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js 
 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/medical-grey --ext tsx assets/medical-grey
 
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/misc-grey --ext tsx assets/misc-grey
+
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/mobile-ui-grey --ext tsx assets/mobile-ui-grey
 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/icons/music-grey --ext tsx assets/music-grey

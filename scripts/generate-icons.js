@@ -77,6 +77,8 @@ generate("lumberjack-color", "./src/icons/__stories__/components/lumberjack-colo
 
 generate("medical-grey", "./src/icons/__stories__/components/medical-grey-list.ts");
 
+generate("misc-grey", "./src/icons/__stories__/components/misc-grey-list.ts");
+
 generate("mobile-ui-grey", "./src/icons/__stories__/components/mobile-ui-grey-list.ts");
 
 generate("music-grey", "./src/icons/__stories__/components/music-grey-list.ts");
