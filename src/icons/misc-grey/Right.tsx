@@ -1,0 +1,13 @@
+import * as React from "react";
+
+const SvgRight = (props: React.SVGProps<SVGSVGElement>) => (
+  <svg width="1em" height="1em" viewBox="0 0 20 36" {...props}>
+    <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M1.833 35.991a1.5 1.5 0 01-1.069-2.553l14.776-15.01L.764 3.418a1.5 1.5 0 012.137-2.105l15.813 16.063a1.5 1.5 0 010 2.104L2.901 35.543a1.495 1.495 0 01-1.068.448z"
+    />
+  </svg>
+);
+
+export default SvgRight;
