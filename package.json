@@ -71,7 +71,7 @@
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
     "@react-pakistan/react-commons-collection": "^0.0.14",
-    "@react-pakistan/react-ui-collection": "^1.0.51",
+    "@react-pakistan/react-ui-collection": "^2.1.0",
     "@storybook/addon-a11y": "^5.1.10",
     "@storybook/addon-actions": "^5.1.10",
     "@storybook/addon-backgrounds": "^5.1.10",
