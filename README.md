@@ -21,7 +21,7 @@ A generic, Icons library for React web apps & React Native apps, following moder
 
   <Icon4ThofjulyGrey6
     fontSize="32px"
-    color="#2E2E2E"
+    fill="#2E2E2E"
   />
 ```
 
