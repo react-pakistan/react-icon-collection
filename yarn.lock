@@ -1332,9 +1332,9 @@
     warning "^3.0.0"
 
 "@react-pakistan/react-commons-collection@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/react-commons-collection/-/react-commons-collection-1.0.0.tgz#f1fb2012a48fa0e4cef5359b57f22cdd3b4ba83e"
-  integrity sha512-eT6wdKELBAhzikS2qKFPBEw0SIuI5qHqgRMJqTQToN7Fwp6+uSVFAwgtbeR+qoKrFYKWLp1TayKWnX9VTlb1aQ==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/react-commons-collection/-/react-commons-collection-1.1.1.tgz#ef786d2159f80f3554483474c43dadc0bf135386"
+  integrity sha512-ZcvpuM1mUw53OfDeVktQCSzzhB5ShDA40IBrqZGMB1vOyecQRKrPPK7Ljv60AtBCweC/vCtnWZzPgw+XG0SZbQ==
   dependencies:
     styled-components "^4.3.2"
 
