@@ -1571,16 +1571,16 @@
     util-deprecate "^1.0.2"
 
 "@storybook/addon-viewport@^5.1.10":
-  version "5.2.4"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-viewport/-/addon-viewport-5.2.4.tgz#4d7dd0e8a84d249519effc224ee0c937cc3403ac"
-  integrity sha512-R49wSaiouSVBYeus5Xibv+XXX9Nc3/rZ1NB5yIgj658aDeuB8WgkHbM3dKd/GrWeVZWv3o4CjW81ernd3f8sdw==
+  version "5.2.5"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-viewport/-/addon-viewport-5.2.5.tgz#5207e2931eb4ddcf0ff69a8ac9b01d8a3fadf89e"
+  integrity sha512-BmRyJuvSeYMCkfFe8SN5qW5btEa/H/PTCJYSNZ4Iud5ii9x+qeGGlBuOmiv8xa/efygZ88qfNEpZ+vlbrKCZfA==
   dependencies:
-    "@storybook/addons" "5.2.4"
-    "@storybook/api" "5.2.4"
-    "@storybook/client-logger" "5.2.4"
-    "@storybook/components" "5.2.4"
-    "@storybook/core-events" "5.2.4"
-    "@storybook/theming" "5.2.4"
+    "@storybook/addons" "5.2.5"
+    "@storybook/api" "5.2.5"
+    "@storybook/client-logger" "5.2.5"
+    "@storybook/components" "5.2.5"
+    "@storybook/core-events" "5.2.5"
+    "@storybook/theming" "5.2.5"
     core-js "^3.0.1"
     global "^4.3.2"
     memoizerific "^1.11.3"
@@ -1775,17 +1775,10 @@
   dependencies:
     core-js "^3.0.1"
 
-"@storybook/core-events@5.2.5":
+"@storybook/core-events@5.2.5", "@storybook/core-events@^5.0.6":
   version "5.2.5"
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-5.2.5.tgz#62881164a4a01aa99ff0691e70eaed2dd58e229e"
   integrity sha512-O5GM8XEBbYNbM6Z7a4H1bbnbO2cxQrXMhEwansC7a7YinQdkTPiuGxke3NiyK+7pLDh778kpQyjoCjXq6UfAoQ==
-  dependencies:
-    core-js "^3.0.1"
-
-"@storybook/core-events@^5.0.6":
-  version "5.2.1"
-  resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-5.2.1.tgz#bc28d704938d26dd544d0362d38ef08e8cfed916"
-  integrity sha512-AIYV/I+baQ0KxvEM7QAKqUedLn2os0XU9HTdtfZJTC3U9wjmR2ah2ScD6T0n7PBz3MderkvZG6dNjs9h8gRquQ==
   dependencies:
     core-js "^3.0.1"
 
