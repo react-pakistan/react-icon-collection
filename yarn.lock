@@ -1322,11 +1322,11 @@
     warning "^3.0.0"
 
 "@react-pakistan/react-commons-collection@^1.0.0":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/react-commons-collection/-/react-commons-collection-1.1.1.tgz#ef786d2159f80f3554483474c43dadc0bf135386"
-  integrity sha512-ZcvpuM1mUw53OfDeVktQCSzzhB5ShDA40IBrqZGMB1vOyecQRKrPPK7Ljv60AtBCweC/vCtnWZzPgw+XG0SZbQ==
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/react-commons-collection/-/react-commons-collection-1.1.2.tgz#7ef10ca2b300723eb08abdc97543021203aaec07"
+  integrity sha512-ZcqpL2LzAm9oECRfOrvzc1XE4QpwAQTmCvTgOQwkawqJPjbzTM+xYnpNPAiJHzl/WnFsGeZYWne1WbbvqEdMyQ==
   dependencies:
-    styled-components "^4.3.2"
+    styled-components "^4.4.0"
 
 "@react-pakistan/react-ui-collection@^2.1.0":
   version "2.1.0"
