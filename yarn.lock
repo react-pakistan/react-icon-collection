@@ -1307,11 +1307,11 @@
     warning "^3.0.0"
 
 "@react-pakistan/react-commons-collection@^1.0.0":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/react-commons-collection/-/react-commons-collection-1.1.2.tgz#7ef10ca2b300723eb08abdc97543021203aaec07"
-  integrity sha512-ZcqpL2LzAm9oECRfOrvzc1XE4QpwAQTmCvTgOQwkawqJPjbzTM+xYnpNPAiJHzl/WnFsGeZYWne1WbbvqEdMyQ==
+  version "1.1.14"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/react-commons-collection/-/react-commons-collection-1.1.14.tgz#8e2447bcef7e406e421e91105c6717cac7db8aa1"
+  integrity sha512-CebGSMgYc0/oJdFea/pzY/WRwqomcMwq690TmHU8R/iT4yNpPkKq9/lmhYZM2v6vidho2E6pNEczDjIo85eOsA==
   dependencies:
-    styled-components "^4.4.0"
+    styled-components "^4.4.1"
 
 "@react-pakistan/react-ui-collection@^2.1.0":
   version "2.1.0"
@@ -12125,7 +12125,7 @@ style-to-object@0.2.3, style-to-object@^0.2.1:
   dependencies:
     inline-style-parser "0.1.1"
 
-styled-components@^4.3.2, styled-components@^4.4.0:
+styled-components@^4.3.2, styled-components@^4.4.0, styled-components@^4.4.1:
   version "4.4.1"
   resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-4.4.1.tgz#e0631e889f01db67df4de576fedaca463f05c2f2"
   integrity sha512-RNqj14kYzw++6Sr38n7197xG33ipEOktGElty4I70IKzQF1jzaD1U4xQ+Ny/i03UUhHlC5NWEO+d8olRCDji6g==
