@@ -1,15 +1,15 @@
-name: Node CI - lint, test, build
+name: Continuous Integration
 
-on: [push]
+on:
+  push:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     strategy:
       matrix:
-        node-versions: [8.x, 10.x, 12.x]
+        node-versions: [10.x]
     
     steps:
     - uses: actions/checkout@v1
@@ -17,11 +17,11 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: npm install, lint, start, and test 
+    - name: yarn, lint, build, and test 
       run: |
-        npm install
-        npm run lint
-        npm run build
-        npm run test
+        yarn
+        yarn lint
+        yarn build
+        yarn test
       env:
         CI: true
