@@ -204,13 +204,6 @@
   dependencies:
     "@babel/types" "^7.7.4"
 
-"@babel/helper-optimise-call-expression@^7.7.4":
-  version "7.7.4"
-  resolved "https://registry.yarnpkg.com/@babel/helper-optimise-call-expression/-/helper-optimise-call-expression-7.7.4.tgz#034af31370d2995242aa4df402c3b7794b2dcdf2"
-  integrity sha512-VB7gWZ2fDkSuqW6b1AKXkJWO5NyNI3bFL/kK79/30moK57blr6NbH8xcl2XcKCwOmJosftWunZqfO84IGq3ZZg==
-  dependencies:
-    "@babel/types" "^7.7.4"
-
 "@babel/helper-plugin-utils@7.0.0", "@babel/helper-plugin-utils@^7.0.0":
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/@babel/helper-plugin-utils/-/helper-plugin-utils-7.0.0.tgz#bbb3fbee98661c569034237cc03967ba99b4f250"
@@ -1340,9 +1333,9 @@
     warning "^3.0.0"
 
 "@react-pakistan/react-commons-collection@^1.1.14":
-  version "1.1.14"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/react-commons-collection/-/react-commons-collection-1.1.14.tgz#8e2447bcef7e406e421e91105c6717cac7db8aa1"
-  integrity sha512-CebGSMgYc0/oJdFea/pzY/WRwqomcMwq690TmHU8R/iT4yNpPkKq9/lmhYZM2v6vidho2E6pNEczDjIo85eOsA==
+  version "1.1.16"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/react-commons-collection/-/react-commons-collection-1.1.16.tgz#b07644b408249af70f24b280306b884d962b810c"
+  integrity sha512-6O+NKgDqYjUb1U3vGpqCxiPkDdpZR6RqYuULbl65UMcOCDICmFF7HvXjt7BwhIeAeT7IxsRFfGLxi2GHWQZ8dA==
   dependencies:
     styled-components "^4.4.1"
 
@@ -11238,14 +11231,6 @@ sax@^1.2.4, sax@~1.2.4:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
-
-scheduler@^0.18.0:
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.18.0.tgz#5901ad6659bc1d8f3fdaf36eb7a67b0d6746b1c4"
-  integrity sha512-agTSHR1Nbfi6ulI0kYNK0203joW2Y5W4po4l+v03tOoiJKpTBbxpNhWDvqc/4IcOw+KLmSiQLTasZ4cab2/UWQ==
-  dependencies:
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
 
 scheduler@^0.18.0:
   version "0.18.0"
