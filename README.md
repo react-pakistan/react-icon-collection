@@ -17,7 +17,7 @@ A generic, Icons library for React web apps & React Native apps, following moder
 ## Documentation of React Commons Components
 - [Icon4ThofjulyGrey6](https://taimoormk.github.io/react-icon-collection/?path=/story/icons--4thofjulygreyicons)
 ```
-  import { Icon4ThofjulyGrey6 } from '@react-pakistan/react-icons-collection/icons/4thofjuly-grey';
+  import { Icon4ThofjulyGrey6 } from '@react-pakistan/react-icon-collection/icons/4thofjuly-grey';
 
   <Icon4ThofjulyGrey6
     fontSize="32px"
