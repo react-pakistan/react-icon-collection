@@ -1505,15 +1505,15 @@
     react-select "^3.0.8"
 
 "@storybook/addon-links@^5.3.7":
-  version "5.3.7"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-5.3.7.tgz#310986269687d4e643bcce71e58714b1b2b7d8f0"
-  integrity sha512-kRqunwJG1MDAAvqw/8hr+AY5NUdCA+Xc+nk7w6vhSC0wt3w82gW7RhjEXP5AMwJ/WBsEUR4LEVYgT+XI5JMBBg==
+  version "5.3.8"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-5.3.8.tgz#352bc3fdc0db4f3e14b3f24d79b307ef6628c9ea"
+  integrity sha512-7iVa2U57Kx57L45LEkQhSTWRBwEqImimwIYSjmIXhvePU1E/OXeMeM1856Ic3+cUhv49343FDB+iT8xCV0QJMQ==
   dependencies:
-    "@storybook/addons" "5.3.7"
-    "@storybook/client-logger" "5.3.7"
-    "@storybook/core-events" "5.3.7"
+    "@storybook/addons" "5.3.8"
+    "@storybook/client-logger" "5.3.8"
+    "@storybook/core-events" "5.3.8"
     "@storybook/csf" "0.0.1"
-    "@storybook/router" "5.3.7"
+    "@storybook/router" "5.3.8"
     core-js "^3.0.1"
     global "^4.3.2"
     prop-types "^15.7.2"
@@ -1843,17 +1843,10 @@
   dependencies:
     core-js "^3.0.1"
 
-"@storybook/core-events@5.3.8":
+"@storybook/core-events@5.3.8", "@storybook/core-events@^5.0.6":
   version "5.3.8"
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-5.3.8.tgz#2cc85c8109e4734298b3e1f5919c764d6abbf2f4"
   integrity sha512-2GGjZj+AM4OpxU7qI2ixBeek3eigMzlyvQnDpe7cZlWDzNPNvWTspiSyQScFrtD1XV/vJTHdgDBpGb3uNHz7Eg==
-  dependencies:
-    core-js "^3.0.1"
-
-"@storybook/core-events@^5.0.6":
-  version "5.3.6"
-  resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-5.3.6.tgz#41760f8a61958cfa2a468084460da08339c74d9b"
-  integrity sha512-EO9fyMY9O+jjPb9tKIjh+laMy33UPcejnkKq03uv82+VymwU4O9G/FW/JHzjDM0h0ycGy07/5JLfbMtXyCXT3w==
   dependencies:
     core-js "^3.0.1"
 
