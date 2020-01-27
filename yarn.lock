@@ -1642,12 +1642,12 @@
     vue-docgen-loader "^1.3.0-beta.0"
 
 "@storybook/addon-google-analytics@^5.3.8":
-  version "5.3.8"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-google-analytics/-/addon-google-analytics-5.3.8.tgz#8099cdc3747b00d6d12415f42a499b8f72d7c33b"
-  integrity sha512-grG4owVmH1Mp2Wy2Z8tibnCUFt1vyWWprFWkXl8XdrT1zCefO80OxQ43TbAs8HJxTmT3arb/9VGFAnQIaUWfeA==
+  version "5.3.9"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-google-analytics/-/addon-google-analytics-5.3.9.tgz#e4afc3d54e629562b15ce2bea0ecbbf62c91ff53"
+  integrity sha512-xEihgSey+VzSbLyZdZQp6gjcDoQzXfy0lOT5sJn+HCmD3YPGCiz/DEKvlpipmlNJNV1oqQYGfhi0byaz//p6pw==
   dependencies:
-    "@storybook/addons" "5.3.8"
-    "@storybook/core-events" "5.3.8"
+    "@storybook/addons" "5.3.9"
+    "@storybook/core-events" "5.3.9"
     core-js "^3.0.1"
     global "^4.3.2"
     react-ga "^2.5.7"
