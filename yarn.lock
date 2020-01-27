@@ -1602,9 +1602,9 @@
     util-deprecate "^1.0.2"
 
 "@storybook/addon-docs@^5.3.8":
-  version "5.3.8"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-docs/-/addon-docs-5.3.8.tgz#1473a4e22e9cb91d82b405ec31669f99b3438381"
-  integrity sha512-+9UYz36n2WinGLKpvBYsqPQiLdYwCu2ZSBCRBxrx6E32JkWeUwFfwQ8xVb6fW3opy6c7sLwRT5OA3Dur+DT86w==
+  version "5.3.9"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-docs/-/addon-docs-5.3.9.tgz#d3836765444f5e37345a839b88130c57828b5a12"
+  integrity sha512-ETLinSU5DGE4/bQrNiKd3Rm/wCzwfz3P0YyA8eKH2QQ15oEcoioezF41ICi5mJtG9QWTZptvZl8v1NVVhwC7lg==
   dependencies:
     "@babel/generator" "^7.4.0"
     "@babel/parser" "^7.4.2"
@@ -1614,14 +1614,14 @@
     "@mdx-js/loader" "^1.5.1"
     "@mdx-js/mdx" "^1.5.1"
     "@mdx-js/react" "^1.5.1"
-    "@storybook/addons" "5.3.8"
-    "@storybook/api" "5.3.8"
-    "@storybook/components" "5.3.8"
-    "@storybook/core-events" "5.3.8"
+    "@storybook/addons" "5.3.9"
+    "@storybook/api" "5.3.9"
+    "@storybook/components" "5.3.9"
+    "@storybook/core-events" "5.3.9"
     "@storybook/csf" "0.0.1"
-    "@storybook/postinstall" "5.3.8"
-    "@storybook/source-loader" "5.3.8"
-    "@storybook/theming" "5.3.8"
+    "@storybook/postinstall" "5.3.9"
+    "@storybook/source-loader" "5.3.9"
+    "@storybook/theming" "5.3.9"
     acorn "^7.1.0"
     acorn-jsx "^5.1.0"
     acorn-walk "^7.0.0"
@@ -2108,10 +2108,10 @@
     pretty-hrtime "^1.0.3"
     regenerator-runtime "^0.13.3"
 
-"@storybook/postinstall@5.3.8":
-  version "5.3.8"
-  resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-5.3.8.tgz#484d3f8ac377e081cbb08bc4c1b450f1e7d1ed66"
-  integrity sha512-O/nDJHcdBYTEUdEx2px3FCurBXB4VkDpGppBRtSC7YCOQZOdaM9jEAkROq/PxPI8m6CccSFGHH1ycag2au5LoQ==
+"@storybook/postinstall@5.3.9":
+  version "5.3.9"
+  resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-5.3.9.tgz#5145bb6845feabe3bbada57b491b13a0d86e142d"
+  integrity sha512-pw+8FBfdCs2MoI/M9AAi3DuRA2UBKNbr650tJQ14BcXpiHSbfd6h3Wgk8KUXi7iCPdd1+mE4g1bMweTASRjgMQ==
   dependencies:
     core-js "^3.0.1"
 
