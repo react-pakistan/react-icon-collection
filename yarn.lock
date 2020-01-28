@@ -1846,17 +1846,6 @@
     telejson "^3.2.0"
     util-deprecate "^1.0.2"
 
-"@storybook/channel-postmessage@5.3.8":
-  version "5.3.8"
-  resolved "https://registry.yarnpkg.com/@storybook/channel-postmessage/-/channel-postmessage-5.3.8.tgz#76544f1fd276338df9f427eec11d3ec12de86215"
-  integrity sha512-dnWD39+ABBy4bkXIUnlgo9CArfWfQ9D3xYykY8GXLlNMIVlAQBqPmBIHrd05ly7Z1CDjh0WY7dLK7vNG5nZm6A==
-  dependencies:
-    "@storybook/channels" "5.3.8"
-    "@storybook/client-logger" "5.3.8"
-    core-js "^3.0.1"
-    global "^4.3.2"
-    telejson "^3.2.0"
-
 "@storybook/channel-postmessage@5.3.9":
   version "5.3.9"
   resolved "https://registry.yarnpkg.com/@storybook/channel-postmessage/-/channel-postmessage-5.3.9.tgz#3846ae7ea5bc2fe36b1ef64fbc215f480cf8a189"
@@ -1881,29 +1870,6 @@
   integrity sha512-8JFTDTI4hQyAJPDBgwnK99lye2oyxEheko4vD2Pv5M7LblcFBZJuCRhO5wiBsgHi5eV4srSD9kuBsPkYSxB2Xw==
   dependencies:
     core-js "^3.0.1"
-
-"@storybook/client-api@5.3.8":
-  version "5.3.8"
-  resolved "https://registry.yarnpkg.com/@storybook/client-api/-/client-api-5.3.8.tgz#e2e461e915c5e5796638efb3913d59411a9012d4"
-  integrity sha512-jPdkPuTBQ7uLTAAcaB9m84o+pJDQy3N3zPuSkt8SFz3LdJS0WJESsaPqxUV1BL0Lzr8Y2wumjKwVgQLumhUmvA==
-  dependencies:
-    "@storybook/addons" "5.3.8"
-    "@storybook/channel-postmessage" "5.3.8"
-    "@storybook/channels" "5.3.8"
-    "@storybook/client-logger" "5.3.8"
-    "@storybook/core-events" "5.3.8"
-    "@storybook/csf" "0.0.1"
-    "@types/webpack-env" "^1.15.0"
-    core-js "^3.0.1"
-    eventemitter3 "^4.0.0"
-    global "^4.3.2"
-    is-plain-object "^3.0.0"
-    lodash "^4.17.15"
-    memoizerific "^1.11.3"
-    qs "^6.6.0"
-    stable "^0.1.8"
-    ts-dedent "^1.1.0"
-    util-deprecate "^1.0.2"
 
 "@storybook/client-api@5.3.9":
   version "5.3.9"
@@ -2171,22 +2137,6 @@
     memoizerific "^1.11.3"
     qs "^6.6.0"
     util-deprecate "^1.0.2"
-
-"@storybook/source-loader@5.3.8":
-  version "5.3.8"
-  resolved "https://registry.yarnpkg.com/@storybook/source-loader/-/source-loader-5.3.8.tgz#3355b3ccffd69162dcf9df5b9c913d85c03c5ab4"
-  integrity sha512-mfIaO32l52mv3kys59ZXhgD5d9cS+0s2MJm5KXCi4Z7YI8aou0BKa5pNDdia2ibOE5y78oFcOeyE6BJCLMeddA==
-  dependencies:
-    "@storybook/addons" "5.3.8"
-    "@storybook/client-logger" "5.3.8"
-    "@storybook/csf" "0.0.1"
-    core-js "^3.0.1"
-    estraverse "^4.2.0"
-    global "^4.3.2"
-    loader-utils "^1.2.3"
-    prettier "^1.16.4"
-    prop-types "^15.7.2"
-    regenerator-runtime "^0.13.3"
 
 "@storybook/source-loader@5.3.9":
   version "5.3.9"
@@ -2650,12 +2600,12 @@
     "@types/istanbul-lib-coverage" "*"
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@^24.9.0":
-  version "24.9.1"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-24.9.1.tgz#02baf9573c78f1b9974a5f36778b366aa77bd534"
-  integrity sha512-Fb38HkXSVA4L8fGKEZ6le5bB8r6MRWlOCZbVuWZcmOMSCd2wCYOwN1ibj8daIoV9naq7aaOZjrLCoCMptKU/4Q==
+"@types/jest@^25.1.0":
+  version "25.1.0"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-25.1.0.tgz#b3955aa0be6057c65c0bfb11ac2ef1e078598d76"
+  integrity sha512-MYX8LpNQboef1NDZQTchM5poL8WITRVG/4/1XLK/Xsamjptsvgb8ELTRoXixBARi+a81mMT4n2hooqaydEOE9A==
   dependencies:
-    jest-diff "^24.3.0"
+    jest-diff "^25.1.0"
 
 "@types/minimatch@*":
   version "3.0.3"
@@ -8434,7 +8384,7 @@ jest-config@^25.1.0:
     pretty-format "^25.1.0"
     realpath-native "^1.1.0"
 
-jest-diff@^24.3.0, jest-diff@^24.9.0:
+jest-diff@^24.9.0:
   version "24.9.0"
   resolved "https://registry.yarnpkg.com/jest-diff/-/jest-diff-24.9.0.tgz#931b7d0d5778a1baf7452cb816e325e3724055da"
   integrity sha512-qMfrTs8AdJE2iqrTp0hzh7kTd2PQWrsFyj9tORoKmu32xjPjeE4NyjVRDz8ybYwqS2ik8N4hsIpiVTyFeo2lBQ==
