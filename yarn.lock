@@ -1650,9 +1650,9 @@
     styled-components "^5.0.0"
 
 "@react-pakistan/react-ui-collection@^2.1.16":
-  version "2.1.16"
-  resolved "https://registry.yarnpkg.com/@react-pakistan/react-ui-collection/-/react-ui-collection-2.1.16.tgz#55ea3ab9bc85438f6bbd20739ac7e627c6c8e618"
-  integrity sha512-KPpNPxOO/Awo7HbuWaOEcepGdkaIXMNsRilzRxmaDlHlTZ0FBYgaZiiiM28qFN667tXSJQdHIk/ApYiGF1J+OA==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/react-ui-collection/-/react-ui-collection-2.2.0.tgz#1fa74ef66d7ccf7f493121a9a265a8d0ce418801"
+  integrity sha512-A+RXyO/h75ZXdcXZKbQJYIFu6LyVB1aZ017s7XvtaZH+P7ktPiKtMosVShclsunT6HcEcHZPgXuKk6llbGQv4g==
   dependencies:
     react-awesome-slider "^3.2.2"
     react-share "^4.0.1"
