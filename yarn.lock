@@ -2553,12 +2553,17 @@
     "@svgr/plugin-svgo" "^5.1.0"
     loader-utils "^1.2.3"
 
-"@taimoormk/react-commons-collection@^1.0.3":
-  version "1.0.3"
-  resolved "https://npm.pkg.github.com/download/@taimoormk/react-commons-collection/1.0.3/38ae97caddd2b1e4db5141a7cbce75699765c5ec1bf2bfe2a51d7f7d0b8f3fa7#cd437403b59ac205b91862ac31604d3ceebda4a4"
-  integrity sha512-cuDJHh1EUlkV42nbNIY/+P3EgsFspk06WRIIP+chrpRKu/t43JnbgWbICuP5iFzR5yNdbAsdhxoUgfVZX5PL5g==
+"@taimoormk/react-commons-collection@^1.0.7":
+  version "1.0.7"
+  resolved "https://npm.pkg.github.com/download/@taimoormk/react-commons-collection/1.0.7/d03393ba897c7e6ad4652131fae49278867601f1d1119195a0fa7f9da99feed8#3c4aa64769affd794b0e3a726b18169fb68abc83"
+  integrity sha512-XMYYQuCAAxrJsdnMSoZlu1KFP4pTqcSqdaOcZxHLugJofn4H9q8qnUU6k11BGE9RFa9ih9iztoRKrEBQMs3TgQ==
   dependencies:
     styled-components "^5.0.1"
+
+"@taimoormk/react-logo-collection@^1.0.1":
+  version "1.0.1"
+  resolved "https://npm.pkg.github.com/download/@taimoormk/react-logo-collection/1.0.1/ec2860eb4fde805c1ac4750459096549f0a15e88eeeed219038711c1204351dc#a8ac52019c091f241f4b3cd45c685d24da8aded5"
+  integrity sha512-YVZbwC/+DSH8yTnbfpMfkcmAQwJqwxCPHWAbVd6AXpb86ksICmJRoH5GtjcqdXqRoMRfxvcUnYaD9B7q9axw+Q==
 
 "@taimoormk/react-ui-collection@^1.0.2":
   version "1.0.2"
@@ -2818,10 +2823,10 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/react@^16.9.19":
-  version "16.9.19"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.19.tgz#c842aa83ea490007d29938146ff2e4d9e4360c40"
-  integrity sha512-LJV97//H+zqKWMms0kvxaKYJDG05U2TtQB3chRLF8MPNs+MQh/H1aGlyDUxjaHvu08EAGerdX2z4LTBc7ns77A==
+"@types/react@^16.9.20":
+  version "16.9.20"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.20.tgz#e83285766340fb1a7fafe7e5c4708c53832e3641"
+  integrity sha512-jRrWBr25zzEVNa4QbESKLPluvrZ3W6Odfwrfe2F5vzbrDuNvlpnHa/xbZcXg8RH5D4CE181J5VxrRrLvzRH+5A==
   dependencies:
     "@types/prop-types" "*"
     csstype "^2.2.0"

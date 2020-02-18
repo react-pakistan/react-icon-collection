@@ -2,7 +2,7 @@
 
 import * as React from 'react';
 import * as styledComponents from 'styled-components';
-import { theme, ITheme } from '@taimoormk/react-commons-collection/theme';
+import { theme, ITheme } from '@taimoormk/react-commons-collection';
 
 // https://www.styled-components.com/docs/api#define-a-theme-interface
 const {
