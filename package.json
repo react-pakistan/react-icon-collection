@@ -88,7 +88,7 @@
     "@storybook/react": "^5.3.13",
     "@storybook/storybook-deployer": "^2.8.1",
     "@svgr/cli": "^5.1.0",
-    "@svgr/webpack": "^5.1.0",
+    "@svgr/webpack": "^5.2.0",
     "@taimoormk/react-commons-collection": "^1.0.8",
     "@taimoormk/react-logo-collection": "^1.0.2",
     "@taimoormk/react-ui-collection": "^1.0.3",
