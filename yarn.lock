@@ -2600,17 +2600,17 @@
     "@svgr/plugin-svgo" "^5.2.0"
     loader-utils "^1.2.3"
 
-"@taimoormk/react-commons-collection@^1.0.9":
-  version "1.0.9"
-  resolved "https://npm.pkg.github.com/download/@taimoormk/react-commons-collection/1.0.9/f153961fb92e7b95853e8b1dc4a2edf7e764865c43f8d1182e0b8c96663d9666#938a3e2aa39a8b523208d244c575d22b22912f49"
-  integrity sha512-suCHwb40ls/XMcn7MPKin3CuGdDTVWIP0HVUwWuJruk7QR6VHh+2vdwD7sqBzuUHWZD9abxlFkxV++9FoPsKng==
+"@taimoormk/react-commons-collection@^1.0.10":
+  version "1.0.10"
+  resolved "https://npm.pkg.github.com/download/@taimoormk/react-commons-collection/1.0.10/cfe70a60b95ad9bdc9ef6abd34194bf1e6a7b395489d8ec79cf24cba2033d3f9#97b503a2de3d29b3230e0a421c60f81ca0c57320"
+  integrity sha512-OuaN3mASGgYMes4rjy9PWGzC9v2Ma04eSmJ5cVCQ8Y71kjsrNcj8SUvJhKZXz76mFtaCxmizl3zNmpNl57Oi3Q==
   dependencies:
     styled-components "^5.0.1"
 
-"@taimoormk/react-logo-collection@^1.0.2":
-  version "1.0.2"
-  resolved "https://npm.pkg.github.com/download/@taimoormk/react-logo-collection/1.0.2/dce7d8d1be3484c4d2d899d65a3d5c5d27d07b69e45c32ec4d433ffac0c6fd63#5d8ba9d49ab67e15b53feed9d3eb51f33c66bb67"
-  integrity sha512-s1zZ89cqsA2mllJBRnWYLrw9RYzuI8U9Eu2RBzBHBkJ7AocbjCUoGjMoU9d40ulIAmSHBPU39SOiUqVqi9tKxQ==
+"@taimoormk/react-logo-collection@^1.0.3":
+  version "1.0.3"
+  resolved "https://npm.pkg.github.com/download/@taimoormk/react-logo-collection/1.0.3/a18f4f7dffa4793828556391e10571042883d2774aa125812971a82e743efebf#c783ae64dccd9a203f6bf9c98b4f0b7458a09a72"
+  integrity sha512-L7iyZGQWAZMSWb3WFO2CX3hgLRcRaBM8Zs3WKDE/81psxCAzPDiCEqA8CWb70SgxadGslwVCTUrgCuNw+vZHSw==
 
 "@taimoormk/react-ui-collection@^1.0.13":
   version "1.0.13"
@@ -2790,10 +2790,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-13.5.2.tgz#3de53b55fd39efc428a901a0f6db31f761cfa131"
   integrity sha512-Fr6a47c84PRLfd7M7u3/hEknyUdQrrBA6VoPmkze0tcflhU5UnpWEX2kn12ktA/lb+MNHSqFlSiPHIHsaErTPA==
 
-"@types/node@^13.7.6":
-  version "13.7.6"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.7.6.tgz#cb734a7c191472ae6a2b3a502b4dfffcea974113"
-  integrity sha512-eyK7MWD0R1HqVTp+PtwRgFeIsemzuj4gBFSQxfPHY5iMjS7474e5wq+VFgTcdpyHeNxyKSaetYAjdMLJlKoWqA==
+"@types/node@^13.7.7":
+  version "13.7.7"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.7.7.tgz#1628e6461ba8cc9b53196dfeaeec7b07fa6eea99"
+  integrity sha512-Uo4chgKbnPNlxQwoFmYIwctkQVkMMmsAoGGU4JKwLuvBefF0pCq4FybNSnfkfRCpC7ZW7kttcC/TrRtAJsvGtg==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -14896,10 +14896,10 @@ typescript-plugin-styled-components@^1.4.4:
   resolved "https://registry.yarnpkg.com/typescript-plugin-styled-components/-/typescript-plugin-styled-components-1.4.4.tgz#fff26d516ff213dffe1a5627fe76f23ae3ee6ada"
   integrity sha512-w5S5lSpzRFM+61KNNpGtlF46DuTJTyzfWM4g6ic9m189ILEoU3sgoTNHNS2MxQhXsGtQZwAlINKG+Dwy0euwUg==
 
-typescript@^3.8.2:
-  version "3.8.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.8.2.tgz#91d6868aaead7da74f493c553aeff76c0c0b1d5a"
-  integrity sha512-EgOVgL/4xfVrCMbhYKUQTdF37SQn4Iw73H5BgCrF1Abdun7Kwy/QZsE/ssAy0y4LxBbvua3PIbFsbRczWWnDdQ==
+typescript@^3.8.3:
+  version "3.8.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.8.3.tgz#409eb8544ea0335711205869ec458ab109ee1061"
+  integrity sha512-MYlEfn5VrLNsgudQTVJeNaQFUAI7DkhnOjdpAp4T+ku1TfQClewlbSuTVHiA+8skNBgaf02TL/kLOvig4y3G8w==
 
 ua-parser-js@^0.7.18:
   version "0.7.21"
