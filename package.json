@@ -91,7 +91,7 @@
     "@svgr/webpack": "^5.3.1",
     "@taimoormk/react-commons-collection": "^1.0.19",
     "@taimoormk/react-logo-collection": "^1.0.3",
-    "@taimoormk/react-ui-collection": "^1.0.35",
+    "@taimoormk/react-ui-collection": "^1.0.38",
     "@types/enzyme": "^3.10.5",
     "@types/enzyme-adapter-react-16": "^1.0.6",
     "@types/invariant": "^2.2.31",

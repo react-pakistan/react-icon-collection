@@ -2757,10 +2757,10 @@
   resolved "https://npm.pkg.github.com/download/@taimoormk/react-logo-collection/1.0.3/a18f4f7dffa4793828556391e10571042883d2774aa125812971a82e743efebf#c783ae64dccd9a203f6bf9c98b4f0b7458a09a72"
   integrity sha512-L7iyZGQWAZMSWb3WFO2CX3hgLRcRaBM8Zs3WKDE/81psxCAzPDiCEqA8CWb70SgxadGslwVCTUrgCuNw+vZHSw==
 
-"@taimoormk/react-ui-collection@^1.0.35":
-  version "1.0.35"
-  resolved "https://npm.pkg.github.com/download/@taimoormk/react-ui-collection/1.0.35/6f18f42d9dfca1914a2e475b3c333137676177dbf3a01105bbb26fad38aa9bc7#c041b3448ae47b1116684deab8f0f0517ed41fa3"
-  integrity sha512-G2h50iELfg/p2/CS59L25gHNztJXXIedc+up89oW18bvoF2+icDaGXH09Ubu0aGdipwJCF4+KXfZYdVxl4uxCw==
+"@taimoormk/react-ui-collection@^1.0.38":
+  version "1.0.38"
+  resolved "https://npm.pkg.github.com/download/@taimoormk/react-ui-collection/1.0.38/10ad89432b1c4a5070369fac52b23649c67094a8b2ebfef26b4defa164f41b34#bb65b9a48919010089679602f23a2307d8d7c472"
+  integrity sha512-DRDVYp1TxTi0x7UV12hPmUmbtSnUrxnk8BGOXeoTGe3f93dJHOVXI927UKPRYO0w94lr+dpPDPv5bJ85VRrw7w==
   dependencies:
     rc-dropdown "^3.0.2"
     rc-slider "^9.2.4"
