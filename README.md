@@ -68,7 +68,7 @@ You could either use the default theme as shown below or wire your custom theme 
 
 ```javascript
   import { ThemeProvider } from 'styled-components';
-  import { theme } from '@react-pakistan/react-commons-collection/theme';
+  import { theme } from '@react-pakistan/util-functions';
 
   <ThemeProvider theme={theme}>
     <App />
@@ -77,97 +77,106 @@ You could either use the default theme as shown below or wire your custom theme 
 
 ### **Use**
 
-- [Icon4ThofjulyGrey6](https://taimoormk.github.io/react-icon-collection/?path=/story/icons--4thofjulygreyicons)
+- [SvgFourthofjulyGrey6](https://taimoormk.github.io/react-icon-collection/?path=/story/icons--4thofjulygreyicons)
 ```javascript
-  import { Icon4ThofjulyGrey6 } from '@react-pakistan/react-icon-collection/icons/4thofjuly-grey';
+  import { SvgFourthofjulyGrey6 } from '@react-pakistan/react-icon-collection/Fourthofjuly-grey';
 
-  <Icon4ThofjulyGrey6
+  <SvgFourthofjulyGrey6
     fontSize="32px"
     fill="#2E2E2E"
   />
 ```
 
 # Other Libraries from ReactPakistan
-<a
-  href="https://taimoormk.github.io/react-commons-collection"
-  target="_blank"
->
-  <img
-    alt="React Pakistan - React Commons Collection"
-    src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566265693/GitHub/react-commons-collection.jpg"
-    width="70%"
-  />
-</a>
-<a
-  href="https://www.npmjs.com/package/@react-pakistan/react-commons-collection"
-  target="_blank"
->
-  <img
-    alt="React Pakistan - React Commons Collection - NPM Package"
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-    width="20%"
-  />
-</a>
-<a
-  href="https://taimoormk.github.io/react-ui-collection"
-  target="_blank"
->
-  <img
-    alt="React Pakistan - React UI Collection"
-    src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566265693/GitHub/react-ui-collection.jpg"
-    width="70%"
-  />
-</a>
-<a
-  href="https://www.npmjs.com/package/@react-pakistan/react-ui-collection"
-  target="_blank"
->
-  <img
-    alt="React Pakistan - React UI Collection - NPM Package"
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-    width="20%"
-  />
-</a>
-<a
-  href="https://taimoormk.github.io/react-icon-collection"
-  target="_blank"
->
-  <img
-    alt="React Pakistan - React Icon Collection"
-    src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499955/GitHub/react-icons-collection.jpg"
-    width="70%"
-  />
-</a>
-<a
-  href="https://www.npmjs.com/package/@react-pakistan/react-icon-collection"
-  target="_blank"
->
-  <img
-    alt="React Pakistan - React Icon Collection - NPM Package"
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-    width="20%"
-  />
-</a>
-<a
-  href="https://taimoormk.github.io/react-logo-collection"
-  target="_blank"
->
-  <img
-    alt="React Pakistan - React Logo Collection"
-    src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499957/GitHub/react-logo-collection.jpg"
-    width="70%"
-  />
-</a>
-<a
-  href="https://www.npmjs.com/package/@react-pakistan/react-icon-collection"
-  target="_blank"
->
-  <img
-    alt="React Pakistan - React Logo Collection - NPM Package"
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
-    width="20%"
-  />
-</a>
+
+<div>
+  <a
+    href="https://taimoormk.github.io/react-commons-collection"
+    target="_blank"
+  >
+    <img
+      alt="React Pakistan - React Commons Collection"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566265693/GitHub/react-commons-collection.jpg"
+      width="70%"
+    />
+  </a>
+  <a
+    href="https://www.npmjs.com/package/@react-pakistan/react-commons-collection"
+    target="_blank"
+  >
+    <img
+      alt="React Pakistan - React Commons Collection - NPM Package"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
+      width="20%"
+    />
+  </a>
+</div>
+<div>
+  <a
+    href="https://taimoormk.github.io/react-ui-collection"
+    target="_blank"
+  >
+    <img
+      alt="React Pakistan - React UI Collection"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566265693/GitHub/react-ui-collection.jpg"
+      width="70%"
+    />
+  </a>
+  <a
+    href="https://www.npmjs.com/package/@react-pakistan/react-ui-collection"
+    target="_blank"
+  >
+    <img
+      alt="React Pakistan - React UI Collection - NPM Package"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
+      width="20%"
+    />
+  </a>
+</div>
+<div>
+  <a
+    href="https://taimoormk.github.io/react-logo-collection"
+    target="_blank"
+  >
+    <img
+      alt="React Pakistan - React Logo Collection"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499957/GitHub/react-logo-collection.jpg"
+      width="70%"
+    />
+  </a>
+  <a
+    href="https://www.npmjs.com/package/@react-pakistan/react-logo-collection"
+    target="_blank"
+  >
+    <img
+      alt="React Pakistan - React Logo Collection - NPM Package"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
+      width="20%"
+    />
+  </a>
+</div>
+<div>
+  <a
+    href="https://taimoormk.github.io/react-emoji-collection"
+    target="_blank"
+  >
+    <img
+      alt="React Pakistan - React Emoji Collection"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1592815676/GitHub/react-emoji-collection.jpg"
+      width="70%"
+    />
+  </a>
+  <a
+    href="https://www.npmjs.com/package/@react-pakistan/react-emoji-collection"
+    target="_blank"
+  >
+    <img
+      alt="React Pakistan - React Icon Collection - NPM Package"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
+      width="20%"
+    />
+  </a>
+</div>
 
 ## Buy me a coffee
 <a
