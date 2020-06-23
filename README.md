@@ -77,9 +77,9 @@ You could either use the default theme as shown below or wire your custom theme 
 
 ### **Use**
 
-- [SvgFourthofjulyGrey6](https://taimoormk.github.io/react-icon-collection/?path=/story/icons--4thofjulygreyicons)
+- [SvgFourthofjulyGrey6](https://taimoormk.github.io/react-icon-collection/?path=/story/icon-fourthofjulygrey--fourthofjuly-grey)
 ```javascript
-  import { SvgFourthofjulyGrey6 } from '@react-pakistan/react-icon-collection/Fourthofjuly-grey';
+  import { SvgFourthofjulyGrey6 } from '@react-pakistan/react-icon-collection/fourthofjuly-grey';
 
   <SvgFourthofjulyGrey6
     fontSize="32px"
