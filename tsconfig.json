@@ -15,15 +15,15 @@
     ],
   },
   "include": [
+    "./images.d.ts",
     "./src/**/*.ts",
-    "./src/**/*.tsx",
-    "./images.d.ts"
+    "./src/**/*.tsx"
   ],
   "exclude": [
-    "node_modules",
-    "./jest",
-    "./src/**/__tests__",
     "./.storybook",
-    "./src/**/__stories__",
+    "./jest",
+    "./src/__stories__",
+    "./src/__tests__",
+    "node_modules",
   ]
 }
