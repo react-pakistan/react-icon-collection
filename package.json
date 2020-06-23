@@ -1,6 +1,6 @@
 {
   "name": "@taimoormk/react-icon-collection",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React Icons Collection built upon React StoryBook",
   "module": "lib/index.js",
   "main": "lib/index.js",
@@ -12,7 +12,8 @@
     "build:ts:cjs": "tsc --project tsconfig.build-cjs.json",
     "clean": "yarn rimraf ./lib",
     "deploy-storybook": "storybook-to-ghpages",
-    "generate-icons": "scripts/generate-icons.sh",
+    "generate-icons": "yarn generate-script && scripts/generate-icons.sh",
+    "generate-script": "scripts/generate-script.sh",
     "lint": "yarn lint:ts && yarn lint:css",
     "lint-staged": "lint-staged",
     "lint:css": "stylelint './src/**/*.tsx'",
