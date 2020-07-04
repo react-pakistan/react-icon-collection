@@ -34,7 +34,7 @@
   "husky": {
     "hooks": {
       "pre-commit": "yarn lint-staged",
-      "pre-push": "yanr test && yarn build"
+      "pre-push": "yarn test && yarn build"
     }
   },
   "lint-staged": {
