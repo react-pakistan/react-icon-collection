@@ -1,0 +1,10 @@
+import * as React from "react";
+
+const SvgSocialGrey15 = (props: React.SVGProps<SVGSVGElement>) => (
+  <svg viewBox="0 0 512 512" width="1em" height="1em" {...props}>
+    <path d="M256 0C115.04 0 0 115.05 0 256c0 140.96 115.05 256 256 256 140.96 0 256-115.05 256-256C512 115.04 396.95 0 256 0zm0 482C131.383 482 30 380.617 30 256S131.383 30 256 30s226 101.383 226 226-101.383 226-226 226zm0 0" />
+    <path d="M301 144.926V211h-90v-65.945L65.652 256 211 366.945V301h90v65.668l144.527-110.645zM181 271v35.305L115.098 256 181 205.695V241h150v-35.176l65.238 50.153L331 305.918V271zm0 0" />
+  </svg>
+);
+
+export default SvgSocialGrey15;
