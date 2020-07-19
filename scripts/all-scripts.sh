@@ -37,6 +37,7 @@ svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js 
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/shopping-grey --ext tsx assets/shopping-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/skull-color --ext tsx assets/skull-color
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/skull-grey --ext tsx assets/skull-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/social-grey --ext tsx assets/social-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/space-color --ext tsx assets/space-color
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/space-grey --ext tsx assets/space-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/spring-color --ext tsx assets/spring-color
