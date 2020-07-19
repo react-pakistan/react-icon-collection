@@ -1,8 +1,10 @@
 import * as React from "react";
 
 const SvgSocialGrey10 = (props: React.SVGProps<SVGSVGElement>) => (
-  <svg viewBox="0 0 512 512" width="1em" height="1em" {...props}>
-    <path d="M129.379 361l84.375-135-84.375-135H0l84.375 135L0 361zm-75.25-240h58.621l65.625 105-65.625 105H54.129l65.625-105zm0 0M386.652 0L193.453 316.047 314.707 512h125.277L318.676 315.953 511.813 0zm-.507 482h-54.723L228.676 315.953 403.476 30h54.837l-174.86 286.047zm0 0" />
+  <svg width="1em" height="1em" viewBox="0 0 32 32" {...props}>
+    <path d="M9.4 1.1L0 7.3l6.5 5.2L16 6.6z" />
+    <path d="M0 17.7l9.4 6.1 6.6-5.5-9.5-5.8zM16 18.3l6.6 5.5 9.4-6.1-6.5-5.2zM32 7.3l-9.4-6.2L16 6.6l9.5 5.9z" />
+    <path d="M16 19.5L9.4 25l-2.8-1.8v2l9.4 5.7 9.5-5.7v-2L22.6 25z" />
   </svg>
 );
 
