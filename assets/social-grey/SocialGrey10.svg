@@ -1,1 +1,11 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="m129.378906 361 84.375-135-84.375-135h-129.378906l84.375 135-84.375 135zm-75.25-240h58.621094l65.625 105-65.625 105h-58.621094l65.625-105zm0 0"/><path d="m386.652344 0-193.199219 316.046875 121.253906 195.953125h125.277344l-121.308594-196.046875 193.136719-315.953125zm-.507813 482h-54.722656l-102.746094-166.046875 174.800781-285.953125h54.835938l-174.859375 286.046875zm0 0"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<polygon fill="#444444" points="9.4,1.1 0,7.3 6.5,12.5 16,6.6 "/>
+<polygon fill="#444444" points="0,17.7 9.4,23.8 16,18.3 6.5,12.5 "/>
+<polygon fill="#444444" points="16,18.3 22.6,23.8 32,17.7 25.5,12.5 "/>
+<polygon fill="#444444" points="32,7.3 22.6,1.1 16,6.6 25.5,12.5 "/>
+<polygon fill="#444444" points="16,19.5 9.4,25 6.6,23.2 6.6,25.2 16,30.9 25.5,25.2 25.5,23.2 22.6,25 "/>
+</svg>
