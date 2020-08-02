@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgFourthofjulyGrey35 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgFourthofjulyGrey35 = (props: IIconProps) => (
   <svg viewBox="0 0 200 200" width="1em" height="1em" {...props}>
     <g>
       <path d="M160.3 68.1c-.2-.1-.3-.1-.5-.1H40.4c-.1 0-.2 0-.3.1-.1 0-.2 0-.4.1h-.1c-.9.3-1.5 1.1-1.5 2 0 34.1 27.7 61.8 61.8 61.8 34.1 0 61.8-27.7 61.8-61.8.1-1-.5-1.8-1.4-2.1zm-12.7 3.4c-.4 25.9-21.6 46.8-47.6 46.8S52.8 97.4 52.4 71.5h95.2zM100 127.7c-31.2 0-56.7-25.1-57.4-56.1h6.3c.4 27.8 23.2 50.3 51.1 50.3 27.9 0 50.7-22.5 51.1-50.3h6.3c-.7 31-26.2 56.1-57.4 56.1z" />

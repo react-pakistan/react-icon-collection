@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgMedicalGrey7 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgMedicalGrey7 = (props: IIconProps) => (
   <svg
     id="MedicalGrey7_svg__icons"
     viewBox="0 0 64 64"

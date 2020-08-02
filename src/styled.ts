@@ -1,3 +1,4 @@
+import { SVGProps } from 'react';
 import styled from 'styled-components';
 
 export const IconWrapper = styled.div`
@@ -18,3 +19,10 @@ export const IconItem = styled.div`
   justify-content: center;
   width: 10em;
 `;
+
+export interface IIconProps extends SVGProps<SVGSVGElement> {
+  style : {
+    height : string;
+    width : string;
+  }
+}

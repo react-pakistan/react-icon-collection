@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgBlockchainGrey49 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgBlockchainGrey49 = (props: IIconProps) => (
   <svg width="1em" height="1em" viewBox="0 0 64 64" {...props}>
     <path d="M60.994 13a1 1 0 110-2c.275 0 .5-.225.5-.5s-.225-.5-.5-.5a1 1 0 110-2c1.379 0 2.5 1.121 2.5 2.5s-1.121 2.5-2.5 2.5zM54.494 13c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4a1 1 0 11-2 0c0-1.103-.897-2-2-2s-2 .897-2 2 .897 2 2 2a1 1 0 110 2z" />
     <path d="M60.994 13h-6.5a1 1 0 110-2h6.5a1 1 0 110 2zM60.994 10h-3.5a1 1 0 110-2h3.5a1 1 0 110 2zM12.994 52a1 1 0 110-2c.275 0 .5-.225.5-.5s-.225-.5-.5-.5a1 1 0 110-2c1.379 0 2.5 1.121 2.5 2.5s-1.121 2.5-2.5 2.5zM7.494 52c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4a1 1 0 11-2 0c0-1.103-.897-2-2-2s-2 .897-2 2 .897 2 2 2a1 1 0 110 2z" />

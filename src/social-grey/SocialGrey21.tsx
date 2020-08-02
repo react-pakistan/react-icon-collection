@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgSocialGrey21 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgSocialGrey21 = (props: IIconProps) => (
   <svg width="1em" height="1em" viewBox="0 0 32 32" {...props}>
     <circle cx={26.4} cy={11.3} r={5.1} />
     <circle cx={14.9} cy={12.7} r={4.6} />

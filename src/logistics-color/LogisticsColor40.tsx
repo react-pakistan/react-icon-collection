@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgLogisticsColor40 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgLogisticsColor40 = (props: IIconProps) => (
   <svg
     id="LogisticsColor40_svg__Layer_1"
     x={0}
