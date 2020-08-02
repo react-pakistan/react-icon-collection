@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgValentineGrey25 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgValentineGrey25 = (props: IIconProps) => (
   <svg
     data-name="Layer 1"
     viewBox="0 0 128 128"

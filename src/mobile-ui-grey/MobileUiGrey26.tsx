@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgMobileUiGrey26 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgMobileUiGrey26 = (props: IIconProps) => (
   <svg
     data-name="Layer 3"
     viewBox="0 0 128 128"

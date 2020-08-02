@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgKnifeColor4 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgKnifeColor4 = (props: IIconProps) => (
   <svg
     data-name="Layer 1"
     viewBox="0 0 256 256"

@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgBlockchainColor50 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgBlockchainColor50 = (props: IIconProps) => (
   <svg width="1em" height="1em" viewBox="0 0 64 64" {...props}>
     <path fill="#AC92EC" d="M1.005 8.01h62v51.98h-62z" />
     <path fill="#967ADC" d="M59.005 8.01h4v51.98h-4z" />

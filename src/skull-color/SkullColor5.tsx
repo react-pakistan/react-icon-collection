@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgSkullColor5 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgSkullColor5 = (props: IIconProps) => (
   <svg
     data-name="Layer 1"
     viewBox="0 0 128 128"

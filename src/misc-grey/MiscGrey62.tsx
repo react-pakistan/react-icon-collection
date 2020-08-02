@@ -1,6 +1,7 @@
 import * as React from "react";
+import { IIconProps } from "../styled";
 
-const SvgMiscGrey62 = (props: React.SVGProps<SVGSVGElement>) => (
+const SvgMiscGrey62 = (props: IIconProps) => (
   <svg width="1em" height="1em" viewBox="0 0 62 46" {...props}>
     <path
       fillRule="evenodd"
