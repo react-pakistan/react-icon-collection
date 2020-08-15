@@ -10,7 +10,7 @@ import { ICON_LIST } from './law-color';
 const iconStyle = { width: '7rem', height: '7rem' };
 
 const renderItem = (
-  item : { icon : React.SFC<React.SVGProps<SVGSVGElement>> , name : string }
+  item : { icon : React.SFC<React.SVGProps<SVGSVGElement>>, name : string }
 ) : ReactElement => {
   const Icon = item.icon;
   return (
@@ -34,7 +34,7 @@ export const LawColor = () : ReactElement => (
 );
 
 export default {
-  title: 'Icon|LawColor',
+  title: 'Icon/LawColor',
 
   parameters: {
     component: LawColor,

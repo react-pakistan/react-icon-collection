@@ -10,7 +10,7 @@ import { ICON_LIST } from './medical-grey';
 const iconStyle = { width: '7rem', height: '7rem' };
 
 const renderItem = (
-  item : { icon : React.SFC<React.SVGProps<SVGSVGElement>> , name : string }
+  item : { icon : React.SFC<React.SVGProps<SVGSVGElement>>, name : string }
 ) : ReactElement => {
   const Icon = item.icon;
   return (
@@ -34,7 +34,7 @@ export const MedicalGrey = () : ReactElement => (
 );
 
 export default {
-  title: 'Icon|MedicalGrey',
+  title: 'Icon/MedicalGrey',
 
   parameters: {
     component: MedicalGrey,
