@@ -1,5 +1,6 @@
 // tslint:disable typedef
 
+import { MiscColor1 } from '@taimoormk/react-logo-collection/misc-color';
 import { ITheme } from '@taimoormk/util-functions';
 import * as React from 'react';
 import * as styledComponents from 'styled-components';
@@ -17,13 +18,9 @@ const {
 export { styled, css, createGlobalStyle, keyframes, ThemeProvider };
 
 export const StyledApp = styled.div`
-  @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
-  @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700');
-  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
-  @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-  width: 100%;
   display: inline-block;
   font-family: ${props => props.theme.typography.fontFamily};
+  width: 100%;
   *,
   *::before,
   *::after {
