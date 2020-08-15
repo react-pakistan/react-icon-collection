@@ -5,12 +5,13 @@
 
 import React, { ReactElement } from 'react';
 import { IconWrapper, IconTextWrapper, IconItem } from '../styled';
+import { StyledStory } from '../styled-app';
 import { ICON_LIST } from './kitchen-grey';
 
 const iconStyle = { width: '7rem', height: '7rem' };
 
 const renderItem = (
-  item : { icon : React.SFC<React.SVGProps<SVGSVGElement>> , name : string }
+  item : { icon : React.SFC<React.SVGProps<SVGSVGElement>>, name : string }
 ) : ReactElement => {
   const Icon = item.icon;
   return (
@@ -28,13 +29,15 @@ const renderItem = (
 const icons = ICON_LIST.map(renderItem);
 
 export const KitchenGrey = () : ReactElement => (
-  <IconWrapper>
-    {icons}
-  </IconWrapper>
+  <StyledStory>
+    <IconWrapper>
+      {icons}
+    </IconWrapper>
+  </StyledStory>
 );
 
 export default {
-  title: 'Icon|KitchenGrey',
+  title: 'Icon/KitchenGrey',
 
   parameters: {
     component: KitchenGrey,

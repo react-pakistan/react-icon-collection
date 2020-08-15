@@ -5,12 +5,13 @@
 
 import React, { ReactElement } from 'react';
 import { IconWrapper, IconTextWrapper, IconItem } from '../styled';
+import { StyledStory } from '../styled-app';
 import { ICON_LIST } from './spring-color';
 
 const iconStyle = { width: '7rem', height: '7rem' };
 
 const renderItem = (
-  item : { icon : React.SFC<React.SVGProps<SVGSVGElement>> , name : string }
+  item : { icon : React.SFC<React.SVGProps<SVGSVGElement>>, name : string }
 ) : ReactElement => {
   const Icon = item.icon;
   return (
@@ -28,13 +29,15 @@ const renderItem = (
 const icons = ICON_LIST.map(renderItem);
 
 export const SpringColor = () : ReactElement => (
-  <IconWrapper>
-    {icons}
-  </IconWrapper>
+  <StyledStory>
+    <IconWrapper>
+      {icons}
+    </IconWrapper>
+  </StyledStory>
 );
 
 export default {
-  title: 'Icon|SpringColor',
+  title: 'Icon/SpringColor',
 
   parameters: {
     component: SpringColor,
