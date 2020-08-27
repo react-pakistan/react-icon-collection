@@ -23,8 +23,8 @@ export const IconItem = styled.div`
 `;
 
 export interface IIconProps extends SVGProps<SVGSVGElement> {
-  style : {
-    height : string;
-    width : string;
+  style? : {
+    height? : string;
+    width? : string;
   }
 }
