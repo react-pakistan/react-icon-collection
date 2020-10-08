@@ -11,7 +11,7 @@ import { ICON_LIST } from './skull-color';
 const iconStyle = { width: '7rem', height: '7rem' };
 
 const renderItem = (
-  item : { icon : ReactElement<React.SVGProps<SVGSVGElement>>, name : string }
+  item : { icon : React.SFC<React.SVGProps<SVGSVGElement>> , name : string }
 ) : ReactElement => {
   const Icon = item.icon;
   return (
