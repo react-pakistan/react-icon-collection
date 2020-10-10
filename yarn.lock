@@ -1499,6 +1499,11 @@
     eslint-plugin-react-hooks "^4.1.2"
     typescript "^4.0.3"
 
+"@react-pakistan/react-icon-collection@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@react-pakistan/react-icon-collection/-/react-icon-collection-2.1.0.tgz#70a1deeead8355eed21ef0b790d3b3c2d4628c3b"
+  integrity sha512-QKnZbKzWskaa/qumKrPxdIho9Jo2I27OOlHdSHcgpv2XOWsiOn/VZ96hFEYh/65aZvl5xjl0X4GXO5RltnzXtw==
+
 "@react-pakistan/react-logo-collection@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@react-pakistan/react-logo-collection/-/react-logo-collection-2.0.0.tgz#3377f597094c8623ae35667f231fbd5d24c78f26"
