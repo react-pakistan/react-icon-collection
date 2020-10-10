@@ -52,42 +52,7 @@ React Pakistan is an OpenSource & Free Software (FOSS) platform, creating React 
   </a>
 </div>
 
-A generic, Icons library for React web apps, following modern approach by building your project's UI in isolation using state of the art Storybook along with React.
-
-## Install
-
-Add React Icon Collection to your project. 
-
-`yarn add @react-pakistan/react-icon-collection` or
-`npm install @react-pakistan/react-icon-collection`
-
-### **Styles**
-
-Styled Components are employed to maintain and update theme for this project. Please consider adding Styled Component Provider wrapper to the entry point of your application, following is the sample code.
-You could either use the default theme as shown below or wire your custom theme object instead. See <a href="/docs/styleguide-typography--typography-story">Typography</a> & <a href="/docs/styleguide-colors--colors-story">Colors</a> being used in the theme object.
-
-```javascript
-  import { ThemeProvider } from 'styled-components';
-  import { theme } from '@react-pakistan/util-functions';
-
-  <ThemeProvider theme={theme}>
-    <App />
-  </ThemeProvider>
-```
-
-### **Use**
-
-- [FourthofjulyGrey6](https://taimoormk.github.io/react-icon-collection/?path=/story/icon-fourthofjulygrey--fourthofjuly-grey)
-```javascript
-  import { FourthofjulyGrey6 } from '@react-pakistan/react-icon-collection/fourthofjuly-grey';
-
-  <FourthofjulyGrey6
-    fontSize="32px"
-    fill="#2E2E2E"
-  />
-```
-
-# Other Libraries from ReactPakistan
+### **Other Libraries from ReactPakistan**
 
 <div>
   <a
@@ -111,6 +76,7 @@ You could either use the default theme as shown below or wire your custom theme 
     />
   </a>
 </div>
+
 <div>
   <a
     href="https://taimoormk.github.io/react-ui-collection"
@@ -133,6 +99,7 @@ You could either use the default theme as shown below or wire your custom theme 
     />
   </a>
 </div>
+
 <div>
   <a
     href="https://taimoormk.github.io/react-logo-collection"
@@ -155,6 +122,7 @@ You could either use the default theme as shown below or wire your custom theme 
     />
   </a>
 </div>
+
 <div>
   <a
     href="https://taimoormk.github.io/react-emoji-collection"
@@ -171,12 +139,54 @@ You could either use the default theme as shown below or wire your custom theme 
     target="_blank"
   >
     <img
-      alt="React Pakistan - React Icon Collection - NPM Package"
+      alt="React Pakistan - React Emoji Collection - NPM Package"
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1K6JwhYEBfsv52nUT30dAIjoFyp252cH6VVkhXB_Gq1bUSz-"
       width="20%"
     />
   </a>
 </div>
+
+A generic, Icons library for React web apps, following modern approach by building your project's UI in isolation using state of the art Storybook along with React.
+
+## Install
+
+Add React Icon Collection to your project. 
+
+```
+  yarn add @react-pakistan/react-icon-collection
+```
+OR
+```
+  npm install @react-pakistan/react-icon-collection
+```
+
+Add React Emoji Collection base theme to your project.
+
+```console
+  yarn add @react-pakistan/util-functions
+```
+OR
+```console
+  npm install @react-pakistan/util-functions
+```
+
+### **Styles**
+
+Styled Components are employed to maintain and update theme for this project. Please consider adding Styled Component Provider wrapper to the entry point of your application, following is the sample code.
+You could either use the default theme as shown below or wire your custom theme object instead.
+
+```javascript
+  import { ThemeProvider } from 'styled-components';
+  import { theme } from '@react-pakistan/util-functions';
+
+  <ThemeProvider theme={theme}>
+    <App />
+  </ThemeProvider>
+```
+
+### **Use**
+
+Refer to [React Pakistan Docs](https://react-pakistan.github.io/react-pakistan-docs) for detail usage docs.
 
 ## Buy me a coffee
 <a
