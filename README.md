@@ -54,17 +54,17 @@ A generic, Icons library for React web apps, following modern approach by buildi
 
 ### 📌 Table of Contents 🚀
 
-- [Demo](#demo) ✨
-- [Technology Stack](#technology-stack) ✨
-- [Installation](#installation) ✨
-- [Usage](#usage) ✨
-- [Styles](#styles) ✨
-- [Tested](#tested) ✨
-- [Contributors](#contributors) ✨
-- [Other Libraries from ReactPakistan](#other-libraries-from-reactpakistan) ✨
-- [Support](#support) ✨
-- [Contact](#contact) ✨
-- [Buy Me Coffee](#buy-me-coffee) ✨
+- [Demo](#-demo-) ✨
+- [Technology Stack](#-technology-stack-) ✨
+- [Installation](#-installation-) ✨
+- [Usage](#-usage-) ✨
+- [Styles](#-styles-) ✨
+- [Tested](#-tested-) ✨
+- [Contributors](#-contributors–) ✨
+- [Other Libraries from ReactPakistan](#-other-libraries-from-reactpakistan-) ✨
+- [Support](#-support-) ✨
+- [Contact](#-contact-) ✨
+- [Buy Me Coffee](#-buy-me-coffee-) ✨
 
 ### 📌 Demo 🚀
 
@@ -84,7 +84,7 @@ Checkout [React Icon Collection](https://react-pakistan.github.io/react-icon-col
 
 - Clone the repo
 - Cd into the project folder
-- Figure out which package manager you have on your system, then run following commands for their specific usecases.
+- Figure out which package manager you have on your system, then run following commands for their specific use cases.
 ```console
   // to install dependencies
   yarn
@@ -105,7 +105,7 @@ OR
 
 ### 📌 Usage 🚀
 
-Add React Commons Collection to your project. 
+Add React Icon Collection to your project. 
 
 ```console
   yarn add @react-pakistan/react-icon-collection
