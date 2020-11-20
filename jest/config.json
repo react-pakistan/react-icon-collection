@@ -1,5 +1,4 @@
 {
-  "setupFiles": ["../jest/setup.ts"],
   "transform": {
     "^.+\\.(t|j)sx?$": "ts-jest"
   },
@@ -16,6 +15,6 @@
     "!<rootDir>/**/*.story.{ts,tsx,js,jsx}"
   ],
   "transformIgnorePatterns": [
-    "/node_modules/(?!@react-pakistan/react-icon -collection).+\\.js$"
+    "/node_modules/(?!@react-pakistan/react-icon-collection).+\\.js$"
   ]
 }
