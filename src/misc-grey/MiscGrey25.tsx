@@ -2,7 +2,13 @@ import * as React from "react";
 import { IIconProps } from "../styled";
 
 const SvgMiscGrey25 = (props: IIconProps) => (
-  <svg width="1em" height="1em" viewBox="0 0 29 28" {...props}>
+  <svg
+    width="1em"
+    height="1em"
+    viewBox="0 0 29 28"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}
+  >
     <path
       fillRule="evenodd"
       clipRule="evenodd"

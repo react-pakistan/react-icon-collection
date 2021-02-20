@@ -4,6 +4,7 @@ import { IIconProps } from "../styled";
 const SvgLogisticsColor2 = (props: IIconProps) => (
   <svg
     id="LogisticsColor2_svg__Layer_1"
+    xmlns="http://www.w3.org/2000/svg"
     x={0}
     y={0}
     viewBox="0 0 256 256"

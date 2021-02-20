@@ -4,6 +4,7 @@ import { IIconProps } from "../styled";
 const SvgBusinessColor8 = (props: IIconProps) => (
   <svg
     id="BusinessColor8_svg__Layer_1"
+    xmlns="http://www.w3.org/2000/svg"
     x={0}
     y={0}
     viewBox="0 0 256 256"

@@ -2,7 +2,13 @@ import * as React from "react";
 import { IIconProps } from "../styled";
 
 const SvgFourthofjulyGrey32 = (props: IIconProps) => (
-  <svg viewBox="0 0 200 200" width="1em" height="1em" {...props}>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 200 200"
+    width="1em"
+    height="1em"
+    {...props}
+  >
     <g>
       <circle cx={82.9} cy={114.1} r={0.8} />
       <path d="M74.4 114.9c.4 0 .7-.3.7-.8 0-.4-.3-.8-.7-.8-.4 0-.8.3-.8.8s.4.8.8.8zM91.5 114.9c.4 0 .7-.3.7-.8 0-.4-.3-.8-.7-.8-.4 0-.8.3-.8.8s.3.8.8.8zM100 114.9c.4 0 .7-.3.7-.8 0-.4-.3-.8-.7-.8-.4 0-.8.3-.8.8.1.5.4.8.8.8z" />

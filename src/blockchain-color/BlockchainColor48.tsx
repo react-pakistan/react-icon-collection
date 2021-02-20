@@ -2,7 +2,13 @@ import * as React from "react";
 import { IIconProps } from "../styled";
 
 const SvgBlockchainColor48 = (props: IIconProps) => (
-  <svg width="1em" height="1em" viewBox="0 0 64 64" {...props}>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1em"
+    height="1em"
+    viewBox="0 0 64 64"
+    {...props}
+  >
     <path fill="#D3374E" d="M52 9H24l-3-1H1V2h20l3 1h28v3z" />
     <path fill="#F6BB42" d="M52 15H24l-3-1H1V8h20l3 1h28v3z" />
     <path fill="#D3374E" d="M52 21H24l-3-1H1v-6h20l3 1h28v3z" />
