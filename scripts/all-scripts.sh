@@ -6,6 +6,7 @@ svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/brands-grey --ext tsx assets/brands-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/business-color --ext tsx assets/business-color
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/business-grey --ext tsx assets/business-grey
+svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/flags-color --ext tsx assets/flags-color
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/food-dishes-color --ext tsx assets/food-dishes-color
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-grey.js -d src/fourthofjuly-grey --ext tsx assets/fourthofjuly-grey
 svgr --template scripts/svgr-template.js --config-file scripts/.svgrrc-color.js -d src/green-energy-color --ext tsx assets/green-energy-color

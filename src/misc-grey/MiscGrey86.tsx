@@ -2,7 +2,13 @@ import * as React from "react";
 import { IIconProps } from "../styled";
 
 const SvgMiscGrey86 = (props: IIconProps) => (
-  <svg width="1em" height="1em" viewBox="0 0 52 52" {...props}>
+  <svg
+    width="1em"
+    height="1em"
+    viewBox="0 0 52 52"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}
+  >
     <path opacity={0.01} d="M0 0h52v52H0z" />
     <path
       fillRule="evenodd"

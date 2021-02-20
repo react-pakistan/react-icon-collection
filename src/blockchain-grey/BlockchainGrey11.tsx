@@ -2,7 +2,13 @@ import * as React from "react";
 import { IIconProps } from "../styled";
 
 const SvgBlockchainGrey11 = (props: IIconProps) => (
-  <svg width="1em" height="1em" viewBox="0 0 64 64" {...props}>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1em"
+    height="1em"
+    viewBox="0 0 64 64"
+    {...props}
+  >
     <path d="M32.03 48.5c-.552 0-1.005-.447-1.005-1s.443-1 .995-1h.01a1 1 0 110 2zM63 46.5H1.047a1 1 0 110-2H63a1 1 0 110 2z" />
     <path d="M61 50.5H3c-1.654 0-3-1.346-3-3v-42c0-1.654 1.346-3 3-3h58c1.654 0 3 1.346 3 3v42c0 1.654-1.346 3-3 3zM3 4.5c-.551 0-1 .448-1 1v42c0 .552.449 1 1 1h58a1 1 0 001-1v-42a1 1 0 00-1-1H3z" />
     <path d="M23.001 58.5a1 1 0 01-.972-1.242l2-8a1 1 0 011.941.484l-2 8a1 1 0 01-.969.758zM40.999 58.5a1 1 0 01-.969-.758l-2-8a.998.998 0 01.728-1.212.998.998 0 011.212.728l2 8a.998.998 0 01-.971 1.242z" />

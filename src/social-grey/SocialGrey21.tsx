@@ -2,7 +2,13 @@ import * as React from "react";
 import { IIconProps } from "../styled";
 
 const SvgSocialGrey21 = (props: IIconProps) => (
-  <svg width="1em" height="1em" viewBox="0 0 32 32" {...props}>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1em"
+    height="1em"
+    viewBox="0 0 32 32"
+    {...props}
+  >
     <circle cx={26.4} cy={11.3} r={5.1} />
     <circle cx={14.9} cy={12.7} r={4.6} />
     <circle cx={4.5} cy={14.1} r={4.1} />

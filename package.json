@@ -1,6 +1,6 @@
 {
   "name": "@react-pakistan/react-icon-collection",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "React Icons Collection built upon React StoryBook",
   "module": "lib/index.js",
   "main": "lib/index.js",
@@ -163,6 +163,7 @@
     "sass-loader": "^11.0.1",
     "storybook-readme": "^5.0.9",
     "style-loader": "^2.0.0",
+    "styled-components": "^5.2.1",
     "stylelint": "^13.10.0",
     "stylelint-config-recommended": "^3.0.0",
     "stylelint-config-styled-components": "^0.1.1",

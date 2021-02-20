@@ -4,6 +4,7 @@ import { IIconProps } from "../styled";
 const SvgKnifeGrey4 = (props: IIconProps) => (
   <svg
     data-name="Layer 1"
+    xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 256 256"
     width="1em"
     height="1em"
