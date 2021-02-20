@@ -11,7 +11,7 @@
     "build:ts": "tsc --project tsconfig.build.json",
     "build:ts:cjs": "tsc --project tsconfig.build-cjs.json",
     "clean": "yarn rimraf ./lib",
-    "copy:deploy:files": "cp stories.json ./*out*/ && cp sitemap.xml ./*out*/ && cp favicon.ico ./*out*/ && cp assets/react-pakistan.jpeg ./*out*/",
+    "copy:deploy:files": "cp stories.json ./*out*/ && cp sitemap.xml ./*out*/ && cp favicon.ico ./*out*/ && cp src/react-pakistan.jpeg ./*out*/",
     "deploy:storybook": "concurrently \"yarn storybook:ghpages\" \"sleep 15 && rm ./*out*/favicon.ico && yarn copy:deploy:files\"",
     "extract": "yarn build:storybook && sb extract ./.out && cp ./.out/stories.json . && rm -rf ./.out",
     "generate:icons": "yarn generate:script && scripts/generate-icons.sh",
