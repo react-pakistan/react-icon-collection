@@ -1,6 +1,6 @@
 {
   "name": "@react-pakistan/react-icon-collection",
-  "version": "3.1.6",
+  "version": "3.1.7",
   "description": "React Icons Collection built upon React StoryBook",
   "module": "lib/index.js",
   "main": "lib/index.js",
@@ -101,7 +101,6 @@
     "url": "https://github.com/react-pakistan/react-icon-collection/issues"
   },
   "homepage": "https://github.com/react-pakistan/react-icon-collection#readme",
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.13.13",
     "@babel/preset-env": "^7.13.12",
