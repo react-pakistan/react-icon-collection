@@ -6,6 +6,22 @@
 import * as Icons from '../lumberjack-color';
 
 export const ICON_LIST = [
+  { icon: Icons.LumberjackColor1, name: 'LumberjackColor1' },
+  { icon: Icons.LumberjackColor10, name: 'LumberjackColor10' },
+  { icon: Icons.LumberjackColor11, name: 'LumberjackColor11' },
+  { icon: Icons.LumberjackColor12, name: 'LumberjackColor12' },
+  { icon: Icons.LumberjackColor13, name: 'LumberjackColor13' },
+  { icon: Icons.LumberjackColor14, name: 'LumberjackColor14' },
+  { icon: Icons.LumberjackColor15, name: 'LumberjackColor15' },
+  { icon: Icons.LumberjackColor16, name: 'LumberjackColor16' },
+  { icon: Icons.LumberjackColor2, name: 'LumberjackColor2' },
+  { icon: Icons.LumberjackColor3, name: 'LumberjackColor3' },
+  { icon: Icons.LumberjackColor4, name: 'LumberjackColor4' },
+  { icon: Icons.LumberjackColor5, name: 'LumberjackColor5' },
+  { icon: Icons.LumberjackColor6, name: 'LumberjackColor6' },
+  { icon: Icons.LumberjackColor7, name: 'LumberjackColor7' },
+  { icon: Icons.LumberjackColor8, name: 'LumberjackColor8' },
+  { icon: Icons.LumberjackColor9, name: 'LumberjackColor9' },
   { icon: Icons.LumerjackColor1, name: 'LumerjackColor1' },
   { icon: Icons.LumerjackColor10, name: 'LumerjackColor10' },
   { icon: Icons.LumerjackColor11, name: 'LumerjackColor11' },
