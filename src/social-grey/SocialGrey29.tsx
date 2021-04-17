@@ -4,9 +4,9 @@ import { IIconProps } from "../styled";
 const SvgSocialGrey29 = (props: IIconProps) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 32 32"
     width="1em"
     height="1em"
-    viewBox="0 0 32 32"
     {...props}
   >
     <path d="M14.517 18.817l-1.365-4.077 4.267-1.43 1.365 4.078z" />

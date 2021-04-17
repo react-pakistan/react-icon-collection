@@ -3,16 +3,16 @@ import { IIconProps } from "../styled";
 
 const SvgTravelColor1 = (props: IIconProps) => (
   <svg
-    data-name="Layer 1"
     xmlns="http://www.w3.org/2000/svg"
+    data-name="Layer 1"
     viewBox="0 0 128 128"
     width="1em"
     height="1em"
     {...props}
   >
     <path
-      d="M64.038 18.464a4.845 4.845 0 014.845 4.845v86.226h-9.69V23.309a4.845 4.845 0 014.845-4.845z"
       fill="#021768"
+      d="M64.038 18.464a4.845 4.845 0 014.845 4.845v86.226h-9.69V23.309a4.845 4.845 0 014.845-4.845z"
     />
     <path
       fill="#ffaf03"

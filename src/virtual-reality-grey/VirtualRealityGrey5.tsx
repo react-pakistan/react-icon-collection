@@ -3,8 +3,8 @@ import { IIconProps } from "../styled";
 
 const SvgVirtualRealityGrey5 = (props: IIconProps) => (
   <svg
-    data-name="Layer 3"
     xmlns="http://www.w3.org/2000/svg"
+    data-name="Layer 3"
     viewBox="0 0 128 128"
     width="1em"
     height="1em"

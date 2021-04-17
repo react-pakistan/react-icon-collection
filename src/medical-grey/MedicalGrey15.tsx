@@ -3,8 +3,8 @@ import { IIconProps } from "../styled";
 
 const SvgMedicalGrey15 = (props: IIconProps) => (
   <svg
-    id="MedicalGrey15_svg__icons"
     xmlns="http://www.w3.org/2000/svg"
+    id="MedicalGrey15_svg__icons"
     viewBox="0 0 64 64"
     width="1em"
     height="1em"
@@ -19,24 +19,24 @@ const SvgMedicalGrey15 = (props: IIconProps) => (
     </defs>
     <g id="MedicalGrey15_svg__hospital">
       <path
-        className="MedicalGrey15_svg__cls-1"
         d="M5.9 26.47h17.23v33.62H5.9z"
+        className="MedicalGrey15_svg__cls-1"
       />
       <path
+        d="M11.02 33.91h7.08v14.11h-7.08zm0 5.56h7.08m16.51-16.39h11.64m-11.64 7.08h11.64m-11.64 7.03h11.64"
         className="MedicalGrey15_svg__cls-1"
-        d="M11.02 33.91h7.08v14.11h-7.08zM11.02 39.47h7.08M34.61 23.08h11.64M34.61 30.16h11.64M34.61 37.19h11.64"
       />
       <rect
-        className="MedicalGrey15_svg__cls-1"
-        x={32.61}
-        y={2.31}
         width={15.64}
         height={15.64}
+        x={32.61}
+        y={2.31}
+        className="MedicalGrey15_svg__cls-1"
         rx={7.82}
       />
       <path
+        d="M37.42 6.58v7.09m6.38-3.55h-6.38m6.38-3.54v7.09M23.12 60.1V10.12m34.62 0V60.1m-23.13 0V42.33h11.64V60.1M23.12 10.12h9.49m25.13 0h-9.49M23.12 60.1h34.62m-51.84 0H2.65m58.34 0h-3.25"
         className="MedicalGrey15_svg__cls-1"
-        d="M37.42 6.58v7.09M43.8 10.12h-6.38M43.8 6.58v7.09M23.12 60.1V10.12M57.74 10.12V60.1M34.61 60.1V42.33h11.64V60.1M23.12 10.12h9.49M57.74 10.12h-9.49M23.12 60.1H57.74M5.9 60.1H2.65M60.99 60.1h-3.25"
       />
     </g>
   </svg>

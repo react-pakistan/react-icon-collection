@@ -3,8 +3,8 @@ import { IIconProps } from "../styled";
 
 const SvgMedicalGrey1 = (props: IIconProps) => (
   <svg
-    id="MedicalGrey1_svg__icons"
     xmlns="http://www.w3.org/2000/svg"
+    id="MedicalGrey1_svg__icons"
     viewBox="0 0 64 64"
     width="1em"
     height="1em"
@@ -19,36 +19,36 @@ const SvgMedicalGrey1 = (props: IIconProps) => (
     </defs>
     <g id="MedicalGrey1_svg__ambulance_1">
       <rect
-        className="MedicalGrey1_svg__cls-1"
-        x={32.16}
-        y={17.28}
         width={19.85}
         height={19.85}
+        x={32.16}
+        y={17.28}
+        className="MedicalGrey1_svg__cls-1"
         rx={9.92}
       />
       <path
+        d="M42.07 22.24v9.68m-5.18-4.72h10.38M21.39 45.65h19.6m10.06 0h8.82m-55.74 0h7.19m29.68 0H26.34V18.48a5 5 0 015.17-4.89h19a5 5 0 015.16 4.89v27.17h-4.62"
         className="MedicalGrey1_svg__cls-1"
-        d="M42.07 22.24v9.68M36.89 27.2h10.38M21.39 45.65h19.6M51.05 45.65h8.82M4.13 45.65h7.19M41 45.65H26.34V18.48a5 5 0 015.17-4.89h19a5 5 0 015.16 4.89v27.17h-4.62"
       />
       <path
-        className="MedicalGrey1_svg__cls-1"
         d="M11.32 45.65H6.37V29.52l8.21-12.04h11.76v28.17h-4.95M6.37 29.52h19.97"
+        className="MedicalGrey1_svg__cls-1"
       />
       <ellipse
-        className="MedicalGrey1_svg__cls-1"
         cx={16.35}
         cy={45.65}
+        className="MedicalGrey1_svg__cls-1"
         rx={5.03}
         ry={4.76}
       />
       <ellipse
-        className="MedicalGrey1_svg__cls-1"
         cx={46.02}
         cy={45.65}
+        className="MedicalGrey1_svg__cls-1"
         rx={5.03}
         ry={4.76}
       />
-      <path className="MedicalGrey1_svg__cls-1" d="M18.95 17.48v-3.89" />
+      <path d="M18.95 17.48v-3.89" className="MedicalGrey1_svg__cls-1" />
     </g>
   </svg>
 );
