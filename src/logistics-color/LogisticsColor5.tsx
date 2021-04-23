@@ -85,7 +85,7 @@ const SvgLogisticsColor5 = (props: IIconProps) => (
       className="LogisticsColor5_svg__st1"
     />
     <path
-      d="M43.4 204.1h11.3V238H43.4zm84 0h11.3V238h-11.3zm-27.1-56.4h18.3V160H31.1v-12.3h64.7zm102.5 0h-84.2v-12.3h116.3v12.3h-28z"
+      d="M43.4 204.1h11.3V238H43.4zM127.4 204.1h11.3V238h-11.3zM100.3 147.7h18.3V160H31.1v-12.3h64.7zM202.8 147.7h-84.2v-12.3h116.3v12.3h-28z"
       className="LogisticsColor5_svg__st2"
     />
     <path
@@ -99,7 +99,7 @@ const SvgLogisticsColor5 = (props: IIconProps) => (
       transform="rotate(90 72.346 187.178)"
     />
     <path
-      d="M161.3 174.7h45.1v19.1h-60.2v-19.1h11zM101.5 57.9H77.2V44h36.3v13.9h-8zm33-50.1h36.3v13.9h-36.3zM65.7 82.7h27v7.8h-27zm0 13.3h27v7.8h-27zm88.6-52h45v7.8h-45zm14.5 21.1h-14.5v-7.8h45v7.8h-26.1zm24.9 17.6v37.8l-16.9-7.7-16.9 7.7V82.7zm17.6 121.4h11.3V238h-11.3z"
+      d="M161.3 174.7h45.1v19.1h-60.2v-19.1h11zM101.5 57.9H77.2V44h36.3v13.9h-8zM134.5 7.8h36.3v13.9h-36.3zM65.7 82.7h27v7.8h-27zM65.7 96h27v7.8h-27zM154.3 44h45v7.8h-45zM168.8 65.1h-14.5v-7.8h45v7.8h-26.1zM193.7 82.7v37.8l-16.9-7.7-16.9 7.7V82.7zM211.3 204.1h11.3V238h-11.3z"
       className="LogisticsColor5_svg__st2"
     />
     <path

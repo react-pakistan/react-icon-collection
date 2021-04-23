@@ -23,8 +23,8 @@ const SvgBusinessColor36 = (props: IIconProps) => (
       className="BusinessColor36_svg__st0"
     />
     <path
-      fill="#fff"
       d="M189.2 221H10.3c-3.5 0-6.3-2.8-6.3-6.3V95.9h141.3L158 68h94v146.6c0 3.5-2.8 6.3-6.3 6.3h-56.5z"
+      fill="#fff"
     />
     <path
       d="M159.7 50.3h86c3.5 0 6.3 2.8 6.3 6.3V68h-94l-12.6 27.9H4V41.4c0-3.5 2.8-6.3 6.3-6.3h82.2l12.6 15.3h54.6z"
@@ -62,7 +62,7 @@ const SvgBusinessColor36 = (props: IIconProps) => (
       className="BusinessColor36_svg__st5"
     />
     <path
-      d="M171.1 86.8v-1.4c0-3.5 2.8-6.3 6.3-6.3h58.1c3.5 0 6.3 2.8 6.3 6.3v1.4c0 3.5-2.8 6.3-6.3 6.3h-58.1c-3.5 0-6.3-2.9-6.3-6.3zm-66 48.8H4V115h248v20.6H115.2z"
+      d="M171.1 86.8v-1.4c0-3.5 2.8-6.3 6.3-6.3h58.1c3.5 0 6.3 2.8 6.3 6.3v1.4c0 3.5-2.8 6.3-6.3 6.3h-58.1c-3.5 0-6.3-2.9-6.3-6.3zM105.1 135.6H4V115h248v20.6H115.2z"
       className="BusinessColor36_svg__st0"
     />
     <path

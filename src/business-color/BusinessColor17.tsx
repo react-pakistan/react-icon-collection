@@ -23,7 +23,7 @@ const SvgBusinessColor17 = (props: IIconProps) => (
       className="BusinessColor17_svg__st0"
     />
     <path
-      d="M171.1 37.9h70.3c5.4 0 9.8 4.4 9.8 9.8v34.6c0 5.4-4.4 9.8-9.8 9.8H179V78.2H77v13.9H14.5c-5.4 0-9.8-4.4-9.8-9.8V47.7c0-5.4 4.4-9.8 9.8-9.8h156.6zM36.2 152.8h40.9v13.6H36.2zm142.8 0h40.9v13.6H179z"
+      d="M171.1 37.9h70.3c5.4 0 9.8 4.4 9.8 9.8v34.6c0 5.4-4.4 9.8-9.8 9.8H179V78.2H77v13.9H14.5c-5.4 0-9.8-4.4-9.8-9.8V47.7c0-5.4 4.4-9.8 9.8-9.8h156.6zM36.2 152.8h40.9v13.6H36.2zM179 152.8h40.9v13.6H179z"
       className="BusinessColor17_svg__st0"
     />
     <path
@@ -43,7 +43,7 @@ const SvgBusinessColor17 = (props: IIconProps) => (
       className="BusinessColor17_svg__st2"
     />
     <path
-      d="M55.8 199.6H39.2v-13.5H80v6.7h102v-6.7h40.8v13.5H63.7zm32.9-92.1h84.7v12.3H88.7zm0 43.1h84.7v12.3H88.7zm64.1 21.6h20.6v12.3h-20.6z"
+      d="M55.8 199.6H39.2v-13.5H80v6.7h102v-6.7h40.8v13.5H63.7zM88.7 107.5h84.7v12.3H88.7zM88.7 150.6h84.7v12.3H88.7zM152.8 172.2h20.6v12.3h-20.6z"
       className="BusinessColor17_svg__st1"
     />
     <path
@@ -67,7 +67,7 @@ const SvgBusinessColor17 = (props: IIconProps) => (
       className="BusinessColor17_svg__st2"
     />
     <path
-      d="M231.7 54.4c4.6 1.3 8 5.6 8 10.6 0 6.1-4.9 11-11 11s-11-4.9-11-11c0-5.6 4.3-10.3 9.7-10.9l4.3.3zM26 50.3h-8.7v29.4h30.1V50.3H30zm165.1 16.9v24.9H182V78.2H80v13.9h-9.1V67.2z"
+      d="M231.7 54.4c4.6 1.3 8 5.6 8 10.6 0 6.1-4.9 11-11 11s-11-4.9-11-11c0-5.6 4.3-10.3 9.7-10.9l4.3.3zM26 50.3h-8.7v29.4h30.1V50.3H30zM191.1 67.2v24.9H182V78.2H80v13.9h-9.1V67.2z"
       className="BusinessColor17_svg__st1"
     />
     <path

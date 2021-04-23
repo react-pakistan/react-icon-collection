@@ -20,7 +20,7 @@ const SvgSecurityColor7 = (props: IIconProps) => (
     />
     <path
       fill="#aedb3f"
-      d="M37.56 43.308l-9.377-7.977m63.815 9.948l9.925-7.281"
+      d="M37.56 43.308l-9.377-7.977M91.998 45.279l9.925-7.281"
     />
     <path
       fill="#231f20"

@@ -21,7 +21,7 @@ const SvgSpaceColor11 = (props: IIconProps) => (
     />
     <path
       fill="#59c4c6"
-      d="M37.575 62.435h8.797v8.004h-8.797zm0 10.62h8.797v8.003h-8.797z"
+      d="M37.575 62.435h8.797v8.004h-8.797zM37.575 73.055h8.797v8.003h-8.797z"
     />
     <path
       fill="#59c4c6"

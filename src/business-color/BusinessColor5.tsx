@@ -111,7 +111,7 @@ const SvgBusinessColor5 = (props: IIconProps) => (
       className="BusinessColor5_svg__st1"
     />
     <path
-      d="M240.3 36.6l-17.9 3.7L234 28.7l17.8-3.7zm-13 15.2l-2.9 2.9-19.3 4 12.5-12.5 19.3-4-6.3 6.2z"
+      d="M240.3 36.6l-17.9 3.7L234 28.7l17.8-3.7zM227.3 51.8l-2.9 2.9-19.3 4 12.5-12.5 19.3-4-6.3 6.2z"
       className="BusinessColor5_svg__st2"
     />
     <path
@@ -131,7 +131,7 @@ const SvgBusinessColor5 = (props: IIconProps) => (
       className="BusinessColor5_svg__st1"
     />
     <path
-      d="M219.1 16l-3.7 17.8L227 22.3l3.7-17.9zm-17.5 16.4l-4 19.3 12.5-12.5 4-19.3z"
+      d="M219.1 16l-3.7 17.8L227 22.3l3.7-17.9zM201.6 32.4l-4 19.3 12.5-12.5 4-19.3z"
       className="BusinessColor5_svg__st2"
     />
     <path

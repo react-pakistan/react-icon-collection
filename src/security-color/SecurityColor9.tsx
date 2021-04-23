@@ -24,7 +24,7 @@ const SvgSecurityColor9 = (props: IIconProps) => (
     />
     <path
       fill="#5ab335"
-      d="M35.67 53.834l12.42-27.592m5.518 44.125l-5.373 11.049"
+      d="M35.67 53.834l12.42-27.592M53.608 70.367l-5.373 11.049"
     />
     <circle cx={45.774} cy={86.476} r={5.639} fill="#e1e1e1" />
     <path

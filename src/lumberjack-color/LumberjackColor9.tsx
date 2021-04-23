@@ -27,7 +27,7 @@ const SvgLumberjackColor9 = (props: IIconProps) => (
     <path fill="#eb7f53" d="M35.866 83.793h5.667V94.89h-5.667z" />
     <path
       fill="#fff6dc"
-      d="M27.433 83.793H33.1V94.89h-5.667zm16.867 0h5.667V94.89H44.3z"
+      d="M27.433 83.793H33.1V94.89h-5.667zM44.3 83.793h5.667V94.89H44.3z"
     />
     <path fill="#eb7f53" d="M52.733 83.793H58.4V94.89h-5.667z" />
     <path fill="#fff6dc" d="M61.166 83.793h5.667V94.89h-5.667z" />

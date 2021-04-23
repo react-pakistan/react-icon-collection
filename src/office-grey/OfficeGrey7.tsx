@@ -16,7 +16,7 @@ const SvgOfficeGrey7 = (props: IIconProps) => (
   >
     <style>
       {
-        ".OfficeGrey7_svg__st1,.OfficeGrey7_svg__st2,.OfficeGrey7_svg__st3{fill:#253759}.OfficeGrey7_svg__st2{clip-path:url(#OfficeGrey7_svg__SVGID_2_)}.OfficeGrey7_svg__st3{clip-path:url(#OfficeGrey7_svg__SVGID_4_)}.OfficeGrey7_svg__st4{fill:url(#OfficeGrey7_svg__New_Pattern_Swatch_1)}"
+        ".OfficeGrey7_svg__st1,.OfficeGrey7_svg__st2,.OfficeGrey7_svg__st3{fill:#253759}.OfficeGrey7_svg__st2,.OfficeGrey7_svg__st3{clip-path:url(#OfficeGrey7_svg__SVGID_2_)}.OfficeGrey7_svg__st3{clip-path:url(#OfficeGrey7_svg__SVGID_4_)}.OfficeGrey7_svg__st4{fill:url(#OfficeGrey7_svg__New_Pattern_Swatch_1)}"
       }
     </style>
     <pattern

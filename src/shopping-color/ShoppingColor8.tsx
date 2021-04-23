@@ -12,7 +12,7 @@ const SvgShoppingColor8 = (props: IIconProps) => (
   >
     <path
       fill="#f8b72b"
-      d="M49.945 46.114l40.973-10.327 9.63 38.209-40.973 10.326z"
+      d="M49.945 46.114l40.973-10.327 9.63 38.208-40.973 10.327z"
     />
     <path
       fill="#f7c869"

@@ -9,8 +9,8 @@ const SvgUa = (props: IIconProps) => (
     height="1em"
     {...props}
   >
-    <path fill="#ffe15a" d="M0 256h512v256H0z" />
-    <path fill="#4173cd" d="M0 0h512v256H0z" />
+    <path fill="#FFE15A" d="M0 256h512v256H0z" />
+    <path fill="#4173CD" d="M0 0h512v256H0z" />
   </svg>
 );
 

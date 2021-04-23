@@ -22,7 +22,7 @@ const SvgTravelColor8 = (props: IIconProps) => (
     />
     <path
       fill="#0053fb"
-      d="M22.806 74.416l65.122-45.6 6.234 8.903-65.122 45.6z"
+      d="M22.806 74.416l65.123-45.6 6.233 8.903-65.122 45.6z"
     />
     <rect
       width={14}

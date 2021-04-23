@@ -15,16 +15,16 @@ const SvgBlockchainColor11 = (props: IIconProps) => (
     />
     <path
       fill="#E6E9ED"
-      d="M59 45.5v2c0 1.101-.9 2-2 2h4c1.1 0 2-.899 2-2v-2h-4zm-20 4l2 8H23l2-8z"
+      d="M59 45.5v2c0 1.101-.9 2-2 2h4c1.1 0 2-.899 2-2v-2h-4zM39 49.5l2 8H23l2-8z"
     />
     <path fill="#FFCE54" d="M35 11.5h5v4h-5z" />
-    <path fill="#F6BB42" d="M40 11.5h5v4h-5zm5 0h5v4h-5z" />
-    <path fill="#EDAB37" d="M50 11.5h5v4h-5zm0 7h5v4h-5z" />
-    <path fill="#F6BB42" d="M45 18.5h5v4h-5zm-5 0h5v4h-5z" />
-    <path fill="#FFCE54" d="M35 18.5h5v4h-5zm0 7h5v4h-5z" />
-    <path fill="#F6BB42" d="M40 25.5h5v4h-5zm5 0h5v4h-5z" />
-    <path fill="#EDAB37" d="M50 25.5h5v4h-5zm0 7h5v4h-5z" />
-    <path fill="#F6BB42" d="M45 32.5h5v4h-5zm-5 0h5v4h-5z" />
+    <path fill="#F6BB42" d="M40 11.5h5v4h-5zM45 11.5h5v4h-5z" />
+    <path fill="#EDAB37" d="M50 11.5h5v4h-5zM50 18.5h5v4h-5z" />
+    <path fill="#F6BB42" d="M45 18.5h5v4h-5zM40 18.5h5v4h-5z" />
+    <path fill="#FFCE54" d="M35 18.5h5v4h-5zM35 25.5h5v4h-5z" />
+    <path fill="#F6BB42" d="M40 25.5h5v4h-5zM45 25.5h5v4h-5z" />
+    <path fill="#EDAB37" d="M50 25.5h5v4h-5zM50 32.5h5v4h-5z" />
+    <path fill="#F6BB42" d="M45 32.5h5v4h-5zM40 32.5h5v4h-5z" />
     <path fill="#FFCE54" d="M35 32.5h5v4h-5z" />
     <path
       fill="#AC92EC"

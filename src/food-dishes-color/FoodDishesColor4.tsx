@@ -29,8 +29,8 @@ const SvgFoodDishesColor4 = (props: IIconProps) => (
             />
             <path
               id="FoodDishesColor4_svg___Path_2"
-              fill="#f7cf13"
               d="M40.6 55h4.1c6.7 0 12.4-5.1 13.1-11.8v-.8H61c1 0 1.9-.8 1.9-1.8s-.8-1.9-1.8-1.9H2.9c-1 0-1.9.8-1.9 1.9 0 1 .8 1.9 1.9 1.9h3.2v.8C6.8 49.9 12.5 55 19.3 55h21.3z"
+              fill="#f7cf13"
             />
             <path
               id="FoodDishesColor4_svg___Path_3"

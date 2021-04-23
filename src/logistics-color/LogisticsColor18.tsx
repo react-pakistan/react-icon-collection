@@ -112,7 +112,7 @@ const SvgLogisticsColor18 = (props: IIconProps) => (
       transform="rotate(90 130.286 14.422)"
     />
     <path
-      d="M98.6 145.9H162v7.3H98.6zm12.4-5.1H98.6v-7.2H162v7.2h-46.4zm39 24.9H98.6v-7.3H162v7.3h-6.4z"
+      d="M98.6 145.9H162v7.3H98.6zM111 140.8H98.6v-7.2H162v7.2h-46.4zM150 165.7H98.6v-7.3H162v7.3h-6.4z"
       className="LogisticsColor18_svg__st2"
     />
     <circle

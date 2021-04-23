@@ -15,7 +15,7 @@ const SvgLogisticsColor29 = (props: IIconProps) => (
   >
     <style>
       {
-        ".LogisticsColor29_svg__st0{fill:#dbfdff}.LogisticsColor29_svg__st1{fill:#48386a}.LogisticsColor29_svg__st2{fill:#fff}.LogisticsColor29_svg__st5{fill:#ff8584}"
+        ".LogisticsColor29_svg__st0{fill:#dbfdff}.LogisticsColor29_svg__st1{fill:#48386a}.LogisticsColor29_svg__st2{fill:#fff}.LogisticsColor29_svg__st3{fill:#9feaff}.LogisticsColor29_svg__st5{fill:#ff8584}"
       }
     </style>
     <path
@@ -39,10 +39,10 @@ const SvgLogisticsColor29 = (props: IIconProps) => (
       className="LogisticsColor29_svg__st1"
     />
     <path
-      d="M222.2 125.1l-69.4 45v2.4h76.5zm-117.6 8v21.1l-64.1-12.7 4.9-35.3h44.7c4.2 9.2 10.2 18.5 14.5 26.9z"
-      fill="#9feaff"
+      d="M222.2 125.1l-69.4 45v2.4h76.5zM104.6 133.1v21.1l-64.1-12.7 4.9-35.3h44.7c4.2 9.2 10.2 18.5 14.5 26.9z"
+      className="LogisticsColor29_svg__st3"
     />
-    <path fill="#febe7f" d="M183 220.2v7.3h-30.7v-19.2H183v7.4z" />
+    <path d="M183 220.2v7.3h-30.7v-19.2H183v7.4z" fill="#febe7f" />
     <path
       d="M221.3 208.3h13.3l2.9 19.2h-43v-19.2H216zM86.2 188.6l28.8 5.6-.8 34.8H28.7l7.6-50.2 41.5 8.2z"
       className="LogisticsColor29_svg__st5"

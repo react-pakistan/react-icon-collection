@@ -51,7 +51,7 @@ const SvgLogisticsColor17 = (props: IIconProps) => (
       className="LogisticsColor17_svg__st1"
     />
     <path
-      d="M103.1 78.6V21.4h73.7V108h-73.7V85.5zm44.4 40h29.3v49.7h-29.3zM133 143.5v59h-29.9v-83.9H133v18.2z"
+      d="M103.1 78.6V21.4h73.7V108h-73.7V85.5zM147.5 118.6h29.3v49.7h-29.3zM133 143.5v59h-29.9v-83.9H133v18.2z"
       className="LogisticsColor17_svg__st2"
     />
     <path

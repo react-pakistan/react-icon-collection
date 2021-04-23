@@ -9,8 +9,8 @@ const SvgJp = (props: IIconProps) => (
     height="1em"
     {...props}
   >
-    <path fill="#f5f5f5" d="M0 0h512v512H0z" />
-    <circle cx={256} cy={256} r={97.1} fill="#ff4b55" />
+    <path fill="#F5F5F5" d="M0 0h512v512H0z" />
+    <circle cx={256} cy={256} r={97.1} fill="#FF4B55" />
   </svg>
 );
 

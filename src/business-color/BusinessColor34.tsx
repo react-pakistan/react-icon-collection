@@ -58,7 +58,7 @@ const SvgBusinessColor34 = (props: IIconProps) => (
       d="M230.2 194.9h-205c-.6 0-1-.4-1-1V88.8c0-.6.4-1 1-1s1 .4 1 1V193h202.9V50.3H26.2v25.2c0 .6-.4 1-1 1s-1-.4-1-1V49.3c0-.6.4-1 1-1h204.9c.6 0 1 .4 1 1v144.6c.1.6-.4 1-.9 1zm-102.5 12.6c-.3 0-.5-.2-.5-.5v-7.5c0-.3.2-.5.5-.5s.5.2.5.5v7.5c0 .3-.2.5-.5.5z"
       className="BusinessColor34_svg__st3"
     />
-    <path fill="#ffffed" d="M73 162.2v31.7h109.4V85.2l-22.7-22.7H73V157z" />
+    <path d="M73 162.2v31.7h109.4V85.2l-22.7-22.7H73V157z" fill="#ffffed" />
     <path
       d="M182.4 194.9H73c-.6 0-1-.4-1-1v-31.7c0-.6.4-1 1-1s1 .4 1 1v30.7h107.4V85.6l-22.1-22.1H74V157c0 .6-.4 1-1 1s-1-.4-1-1V62.5c0-.6.4-1 1-1h86.7c.3 0 .5.1.7.3l22.7 22.7c.2.2.3.4.3.7v108.7c0 .6-.5 1-1 1z"
       className="BusinessColor34_svg__st3"
@@ -68,7 +68,7 @@ const SvgBusinessColor34 = (props: IIconProps) => (
       className="BusinessColor34_svg__st3"
     />
     <path
-      d="M104.7 69.8h12.6v31.8H83.1V69.8h17.1zm-22.1 92.4H139v11H82.6z"
+      d="M104.7 69.8h12.6v31.8H83.1V69.8h17.1zM82.6 162.2H139v11H82.6z"
       className="BusinessColor34_svg__st5"
     />
     <path

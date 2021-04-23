@@ -91,7 +91,7 @@ const SvgBlockchainColor42 = (props: IIconProps) => (
     />
     <path
       fill="#EDAB37"
-      d="M54 28c.82 0 1.5.67 1.5 1.5 0 .819-.68 1.5-1.5 1.5h-2.5v-3H54zm.5 3a1.999 1.999 0 110 4h-3v-4h3z"
+      d="M54 28c.82 0 1.5.67 1.5 1.5 0 .819-.68 1.5-1.5 1.5h-2.5v-3H54zM54.5 31a1.999 1.999 0 110 4h-3v-4h3z"
     />
     <path
       fill="#FFCE54"

@@ -24,8 +24,8 @@ const SvgFoodDishesColor9 = (props: IIconProps) => (
           <g id="FoodDishesColor9_svg___Group_2">
             <path
               id="FoodDishesColor9_svg___Path_"
-              fill="#f7cf13"
               d="M39.4 33c-6.6-5.6-15.8-11.7-24-9-22.4 7.5 3.9 19.9 22 14.4 5.2-1.6 8.3 2.9 9.5-1 1.2-4.1-4.8-2.2-7.5-4.4z"
+              fill="#f7cf13"
             />
             <path
               id="FoodDishesColor9_svg___Path_2"
@@ -41,13 +41,13 @@ const SvgFoodDishesColor9 = (props: IIconProps) => (
               id="FoodDishesColor9_svg___Ellipse_"
               cx={32.1}
               cy={31.8}
-              r={31}
+              transform="rotate(-31.943 32.12 31.84)"
               fill="none"
               stroke="#262525"
+              strokeWidth={2}
               strokeLinecap="round"
               strokeLinejoin="round"
-              strokeWidth={2}
-              transform="rotate(-31.943 32.12 31.84)"
+              r={31}
             />
             <path
               id="FoodDishesColor9_svg___Path_4"

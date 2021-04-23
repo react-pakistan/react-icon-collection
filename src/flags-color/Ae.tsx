@@ -9,10 +9,10 @@ const SvgAe = (props: IIconProps) => (
     height="1em"
     {...props}
   >
-    <path fill="#73af00" d="M158.9 0H512v170.76H158.9z" />
+    <path fill="#73AF00" d="M158.9 0H512v170.76H158.9z" />
     <path fill="#464655" d="M158.9 341.24H512V512H158.9z" />
-    <path fill="#f5f5f5" d="M158.9 170.76H512v170.48H158.9z" />
-    <path fill="#ff4b55" d="M0 0h158.9v512H0z" />
+    <path fill="#F5F5F5" d="M158.9 170.76H512v170.48H158.9z" />
+    <path fill="#FF4B55" d="M0 0h158.9v512H0z" />
   </svg>
 );
 

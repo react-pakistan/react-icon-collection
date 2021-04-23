@@ -19,7 +19,7 @@ const SvgMedicalGrey14 = (props: IIconProps) => (
     </defs>
     <g id="MedicalGrey14_svg__hospital_bed" data-name="hospital bed">
       <path
-        d="M5.83 15.98v32.09m52.18-24v24M5.83 41.98h52.18M52.1 32.4v9.58H18.68L5.83 31.02l9.58-8.17 11.39 9.73 25.3-.18zm-31.21-9.55l6.01 5.37"
+        d="M5.83 15.98v32.09M58.01 24.07v24M5.83 41.98h52.18M52.1 32.4v9.58H18.68L5.83 31.02l9.58-8.17 11.39 9.73 25.3-.18zM20.89 22.85l6.01 5.37"
         className="MedicalGrey14_svg__cls-1"
       />
       <circle

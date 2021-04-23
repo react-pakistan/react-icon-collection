@@ -75,7 +75,7 @@ const SvgBusinessColor37 = (props: IIconProps) => (
       className="BusinessColor37_svg__st6"
     />
     <path
-      d="M89.4 150.6h84.7v12.3H89.4zm64.1 21.6h20.6v12.3h-20.6z"
+      d="M89.4 150.6h84.7v12.3H89.4zM153.5 172.2h20.6v12.3h-20.6z"
       className="BusinessColor37_svg__st3"
     />
     <path
