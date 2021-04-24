@@ -9,9 +9,9 @@ const SvgKw = (props: IIconProps) => (
     height="1em"
     {...props}
   >
-    <path fill="#73af00" d="M0 0h512v170.67H0z" />
-    <path fill="#ff4b55" d="M0 341.33h512V512H0z" />
-    <path fill="#f5f5f5" d="M0 170.67h512v170.67H0z" />
+    <path fill="#73AF00" d="M0 0h512v170.67H0z" />
+    <path fill="#FF4B55" d="M0 341.33h512V512H0z" />
+    <path fill="#F5F5F5" d="M0 170.67h512v170.67H0z" />
     <path fill="#464655" d="M0 512l141.241-170.437-.003-171.13L0 0z" />
   </svg>
 );

@@ -13,7 +13,7 @@ const SvgSweet17Color4 = (props: IIconProps) => (
     <path fill="#fc5796" d="M24.476 47.903h79.047v42.193H24.476z" />
     <path
       fill="#39edfd"
-      d="M77.5 37.903h-27l-4 10h35l-4-10zm-48 5h10v5h-10zm62.75 10.25h6v6h-6z"
+      d="M77.5 37.903h-27l-4 10h35l-4-10zM29.5 42.903h10v5h-10zM92.25 53.153h6v6h-6z"
     />
     <circle cx={64} cy={69.153} r={14.483} fill="#39edfd" />
     <path

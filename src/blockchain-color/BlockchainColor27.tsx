@@ -31,22 +31,22 @@ const SvgBlockchainColor27 = (props: IIconProps) => (
     <path fill="#FFCE54" d="M35 9.5h6v5h-6z" />
     <path
       fill="#F6BB42"
-      d="M41 9.5h8.01v5H41zm8.01 0H57v5h-7.99zm0 8H57v5h-7.99zm-8.01 0h8.01v5H41z"
+      d="M41 9.5h8.01v5H41zM49.01 9.5H57v5h-7.99zM49.01 17.5H57v5h-7.99zM41 17.5h8.01v5H41z"
     />
-    <path fill="#FFCE54" d="M35 17.5h6v5h-6zm0 8h6v5h-6z" />
+    <path fill="#FFCE54" d="M35 17.5h6v5h-6zM35 25.5h6v5h-6z" />
     <path
       fill="#F6BB42"
-      d="M41 25.5h8.01v5H41zm8.01 0H57v5h-7.99zm0 8H57v5h-7.99zm-8.01 0h8.01v5H41z"
+      d="M41 25.5h8.01v5H41zM49.01 25.5H57v5h-7.99zM49.01 33.5H57v5h-7.99zM41 33.5h8.01v5H41z"
     />
-    <path fill="#FFCE54" d="M35 33.5h6v5h-6zm0 16h6v5h-6z" />
+    <path fill="#FFCE54" d="M35 33.5h6v5h-6zM35 49.5h6v5h-6z" />
     <path fill="#F6BB42" d="M41 49.5h8.01v5H41z" />
     <path fill="#FFCE54" d="M35 41.5h6v5h-6z" />
-    <path fill="#F6BB42" d="M41 41.5h8.01v5H41zm8.01 0H57v5h-7.99z" />
+    <path fill="#F6BB42" d="M41 41.5h8.01v5H41zM49.01 41.5H57v5h-7.99z" />
     <path fill="#EDAB37" d="M57 49.5h6v5h-6z" />
     <path fill="#F6BB42" d="M49.01 49.5H57v5h-7.99z" />
     <path
       fill="#EDAB37"
-      d="M57 41.5h6v5h-6zm0-8h6v5h-6zm0-8h6v5h-6zm0-8h6v5h-6zm0-8h6v5h-6z"
+      d="M57 41.5h6v5h-6zM57 33.5h6v5h-6zM57 25.5h6v5h-6zM57 17.5h6v5h-6zM57 9.5h6v5h-6z"
     />
     <path d="M15.002 42.5c-8.271 0-15-6.729-15-15s6.729-15 15-15 15 6.729 15 15-6.729 15-15 15zm0-28c-7.168 0-13 5.832-13 13s5.832 13 13 13 13-5.832 13-13-5.832-13-13-13z" />
     <path d="M15.002 47.5c-8.271 0-15-6.729-15-15a1 1 0 112 0c0 7.168 5.832 13 13 13s13-5.832 13-13a1 1 0 112 0c0 8.271-6.729 15-15 15z" />

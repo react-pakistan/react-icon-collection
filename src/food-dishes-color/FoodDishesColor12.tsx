@@ -29,8 +29,8 @@ const SvgFoodDishesColor12 = (props: IIconProps) => (
             />
             <path
               id="FoodDishesColor12_svg___Path_2"
-              fill="#ddddcb"
               d="M37.9 54h3.9c6.3 0 11.5-4.7 12.2-11v-.8h3c1 0 1.7-.8 1.7-1.7 0-1-.8-1.7-1.7-1.7H2.7c-1 0-1.7.8-1.7 1.7 0 1 .8 1.7 1.7 1.7h3v.8c.7 6.3 6 11 12.3 11h19.9z"
+              fill="#ddddcb"
             />
             <path
               id="FoodDishesColor12_svg___Path_3"
@@ -39,13 +39,13 @@ const SvgFoodDishesColor12 = (props: IIconProps) => (
             />
             <path
               id="FoodDishesColor12_svg___Path_4"
+              d="M17.7 5.1c8.1-3.9 17.4-4.3 25-.9 5.6 2.5 9.5 6.7 10.9 11.8"
               fill="none"
               stroke="#262525"
-              strokeDasharray="1.000000e-02,7"
+              strokeWidth={2}
               strokeLinecap="round"
               strokeLinejoin="round"
-              strokeWidth={2}
-              d="M17.7 5.1c8.1-3.9 17.4-4.3 25-.9 5.6 2.5 9.5 6.7 10.9 11.8"
+              strokeDasharray="1.000000e-02,7"
             />
             <path
               id="FoodDishesColor12_svg___Path_5"

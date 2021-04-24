@@ -23,7 +23,7 @@ const SvgMedicalGrey33 = (props: IIconProps) => (
         className="MedicalGrey33_svg__cls-1"
       />
       <path
-        d="M44.92 30C19.86 30 27 12.57 27 12.57h9.8s5 12.88-7.69 12.88m-6.01 5.51h6.21"
+        d="M44.92 30C19.86 30 27 12.57 27 12.57h9.8s5 12.88-7.69 12.88M23.1 30.96h6.21"
         className="MedicalGrey33_svg__cls-1"
       />
     </g>

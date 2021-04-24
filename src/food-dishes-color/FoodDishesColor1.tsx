@@ -123,13 +123,13 @@ const SvgFoodDishesColor1 = (props: IIconProps) => (
           </g>
           <path
             id="FoodDishesColor1_svg___Path_15"
+            d="M53.4 33.2c-2.4-4.5-8-6.2-12.5-3.9-1.2-.8-2.6-1.2-4-1-1.1 0-2.2.4-3.2 1.1-2.7-1.4-5.9-1.4-8.5 0-1.2-.8-2.6-1.2-4-1-1.2 0-2.3.3-3.2 1"
             fill="none"
             stroke="#262525"
-            strokeDasharray="1.000000e-02,7"
+            strokeWidth={2}
             strokeLinecap="round"
             strokeLinejoin="round"
-            strokeWidth={2}
-            d="M53.4 33.2c-2.4-4.5-8-6.2-12.5-3.9-1.2-.8-2.6-1.2-4-1-1.1 0-2.2.4-3.2 1.1-2.7-1.4-5.9-1.4-8.5 0-1.2-.8-2.6-1.2-4-1-1.2 0-2.3.3-3.2 1"
+            strokeDasharray="1.000000e-02,7"
           />
         </g>
       </g>

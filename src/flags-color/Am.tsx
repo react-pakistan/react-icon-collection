@@ -9,9 +9,9 @@ const SvgAm = (props: IIconProps) => (
     height="1em"
     {...props}
   >
-    <path fill="#ffb400" d="M0 341.33h512V512H0z" />
-    <path fill="#ff4b55" d="M0 0h512v170.67H0z" />
-    <path fill="#41479b" d="M0 170.67h512v170.66H0z" />
+    <path fill="#FFB400" d="M0 341.33h512V512H0z" />
+    <path fill="#FF4B55" d="M0 0h512v170.67H0z" />
+    <path fill="#41479B" d="M0 170.67h512v170.66H0z" />
   </svg>
 );
 

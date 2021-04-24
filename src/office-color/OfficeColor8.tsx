@@ -16,7 +16,7 @@ const SvgOfficeColor8 = (props: IIconProps) => (
   >
     <style>
       {
-        ".OfficeColor8_svg__st1,.OfficeColor8_svg__st2,.OfficeColor8_svg__st3{fill:#253759}.OfficeColor8_svg__st2{clip-path:url(#OfficeColor8_svg__SVGID_2_)}.OfficeColor8_svg__st3{clip-path:url(#OfficeColor8_svg__SVGID_4_)}.OfficeColor8_svg__st4{fill:#fff}.OfficeColor8_svg__st8{opacity:.3;fill:#253759}"
+        ".OfficeColor8_svg__st1,.OfficeColor8_svg__st2,.OfficeColor8_svg__st3{fill:#253759}.OfficeColor8_svg__st2,.OfficeColor8_svg__st3{clip-path:url(#OfficeColor8_svg__SVGID_2_)}.OfficeColor8_svg__st3{clip-path:url(#OfficeColor8_svg__SVGID_4_)}.OfficeColor8_svg__st4{fill:#fff}.OfficeColor8_svg__st5{fill:#a6d6ff}.OfficeColor8_svg__st8{opacity:.3;fill:#253759}"
       }
     </style>
     <pattern
@@ -29,7 +29,7 @@ const SvgOfficeColor8 = (props: IIconProps) => (
       patternUnits="userSpaceOnUse"
       viewBox="43 -43 42.9 43"
     >
-      <path fill="none" d="M43-43h42.9V0H43z" />
+      <path d="M43-43h42.9V0H43z" fill="none" />
       <circle cx={85.9} cy={-41.2} r={0.6} className="OfficeColor8_svg__st1" />
       <circle cx={85.9} cy={-37.6} r={0.6} className="OfficeColor8_svg__st1" />
       <circle cx={85.9} cy={-34} r={0.6} className="OfficeColor8_svg__st1" />
@@ -982,8 +982,8 @@ const SvgOfficeColor8 = (props: IIconProps) => (
       className="OfficeColor8_svg__st1"
     />
     <path
-      d="M204 111.9H52l2.8-12.5h146.4zM94.6 243.1h66.7v8.3H94.6zm74.5-97.7v14c0 4.5-3.7 8.2-8.2 8.2s-8.2-3.7-8.2-8.2v-14c0-3.5 2.2-6.5 5.3-7.6.9-.4 1.9-.5 2.9-.5s2 .2 2.9.5c1.1.4 2.1 1 2.9 1.8 1.4 1.5 2.4 3.6 2.4 5.8z"
-      fill="#a6d6ff"
+      d="M204 111.9H52l2.8-12.5h146.4zM94.6 243.1h66.7v8.3H94.6zM169.1 145.4v14c0 4.5-3.7 8.2-8.2 8.2s-8.2-3.7-8.2-8.2v-14c0-3.5 2.2-6.5 5.3-7.6.9-.4 1.9-.5 2.9-.5s2 .2 2.9.5c1.1.4 2.1 1 2.9 1.8 1.4 1.5 2.4 3.6 2.4 5.8z"
+      className="OfficeColor8_svg__st5"
     />
     <pattern
       id="OfficeColor8_svg__SVGID_7_"
@@ -991,8 +991,8 @@ const SvgOfficeColor8 = (props: IIconProps) => (
       xlinkHref="#OfficeColor8_svg__New_Pattern_Swatch_1"
     />
     <path
-      fill="url(#OfficeColor8_svg__SVGID_7_)"
       d="M204 111.9H52l2.8-12.5h146.4z"
+      fill="url(#OfficeColor8_svg__SVGID_7_)"
     />
     <path
       d="M204.6 112.4h-76.4l-38.1.1-19.1.1-19 .1c-.4 0-.8-.3-.8-.8v-.2L54 99.3c.1-.4.4-.6.8-.6l36.6-.2H128c12.2 0 24.4.1 36.6.2l18.3.2 18.3.3c.2 0 .3.1.3.2 1.1 4.2 2.2 8.6 3.1 13zm-1.2-1c-.9-3.9-1.7-7.8-2.4-11.9l.3.3-18.3.3-18.3.2c-12.2.1-24.4.2-36.6.2H91.5l-36.6-.2.8-.6-2.8 12.5-.7-.9 18.9.1 18.9.1 37.9.1 75.5-.2z"
@@ -1017,8 +1017,8 @@ const SvgOfficeColor8 = (props: IIconProps) => (
       xlinkHref="#OfficeColor8_svg__New_Pattern_Swatch_1"
     />
     <path
-      fill="url(#OfficeColor8_svg__SVGID_8_)"
       d="M94.6 243.1h66.7v8.3H94.6z"
+      fill="url(#OfficeColor8_svg__SVGID_8_)"
     />
     <path
       d="M161.4 251.4l-66.8.7c-.4 0-.7-.3-.7-.7l-.1-8.3c0-.4.3-.8.8-.8 5.6-.1 11.1-.2 16.7-.2 5.6-.1 11.1 0 16.7 0s11.1.1 16.7.2 11.1.2 16.7.4c.2 0 .4.2.4.4l-.4 8.3zm-.1-.1l-.3-8.2.4.4c-5.6.2-11.1.3-16.7.4-5.6.1-11.1.2-16.7.2s-11.1.1-16.7 0c-5.6 0-11.1-.1-16.7-.2l.8-.8-.1 8.3-.7-.7 66.7.6z"
@@ -1040,8 +1040,8 @@ const SvgOfficeColor8 = (props: IIconProps) => (
         xlinkHref="#OfficeColor8_svg__New_Pattern_Swatch_1"
       />
       <path
-        fill="url(#OfficeColor8_svg__SVGID_9_)"
         d="M169.1 145.4v14c0 4.5-3.7 8.2-8.2 8.2s-8.2-3.7-8.2-8.2v-14c0-3.5 2.2-6.5 5.3-7.6.9-.4 1.9-.5 2.9-.5s2 .2 2.9.5c1.1.4 2.1 1 2.9 1.8 1.4 1.5 2.4 3.6 2.4 5.8z"
+        fill="url(#OfficeColor8_svg__SVGID_9_)"
       />
       <path
         d="M169.2 145.4c-.1 3.3 0 6.6.1 9.9l.1 2.5c0 .8.1 1.6 0 2.5-.1 1.7-.8 3.4-2 4.8-1.1 1.3-2.7 2.4-4.4 2.8-.9.2-1.7.3-2.6.3-.9 0-1.8-.2-2.6-.5-1.7-.6-3.2-1.7-4.2-3.2-.5-.7-.9-1.5-1.2-2.4-.3-.9-.4-1.8-.4-2.7l-.2-9.9V147c0-.8-.1-1.6 0-2.6.2-1.9 1-3.6 2.2-5 1.2-1.4 2.9-2.3 4.7-2.7 1.8-.4 3.7-.2 5.3.6 3.2 1.4 5.2 4.8 5.2 8.1zm-.2 0c0-1.6-.6-3.3-1.6-4.5-1-1.3-2.4-2.2-3.9-2.6-3-.9-6.3.2-8.1 2.5-.9 1.1-1.5 2.5-1.7 3.9-.1.7-.1 1.6-.1 2.4v2.5l-.2 9.9c-.1 3 1.9 6 4.8 7.1.7.3 1.5.5 2.2.5.8.1 1.5 0 2.3-.2 1.5-.3 2.9-1.2 3.9-2.3 1.1-1.1 1.7-2.6 2-4.2.1-1.6.1-3.3.2-4.9.1-3.4.2-6.7.2-10.1z"

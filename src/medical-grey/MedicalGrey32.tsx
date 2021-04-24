@@ -13,7 +13,7 @@ const SvgMedicalGrey32 = (props: IIconProps) => (
     <defs>
       <style>
         {
-          ".MedicalGrey32_svg__cls-1{fill:none;stroke:#000;stroke-width:2px;stroke-miterlimit:10}"
+          ".MedicalGrey32_svg__cls-1,.MedicalGrey32_svg__cls-2{fill:none;stroke:#000;stroke-width:2px}.MedicalGrey32_svg__cls-1{stroke-miterlimit:10}.MedicalGrey32_svg__cls-2{stroke-linecap:round;stroke-linejoin:round}"
         }
       </style>
     </defs>
@@ -32,10 +32,7 @@ const SvgMedicalGrey32 = (props: IIconProps) => (
       />
       <path
         d="M44.25 10L13.13 41.14C9.07 45.2 8.1 50.8 11 53.66c2.86 2.86 8.47 1.89 12.52-2.16l31.09-31.13zM39.7 5.46l19.47 19.47"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        stroke="#000"
-        strokeWidth={2}
+        className="MedicalGrey32_svg__cls-2"
       />
       <path d="M23.01 31.25h20.72" className="MedicalGrey32_svg__cls-1" />
     </g>

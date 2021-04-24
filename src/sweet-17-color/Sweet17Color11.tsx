@@ -16,7 +16,7 @@ const SvgSweet17Color11 = (props: IIconProps) => (
     />
     <path
       fill="#fc5796"
-      d="M34.892 62.062l23.4-20.089L91.315 80.44l-23.4 20.089z"
+      d="M34.892 62.062l23.4-20.088 33.022 38.465-23.4 20.089z"
     />
     <path
       fill="#39edfd"

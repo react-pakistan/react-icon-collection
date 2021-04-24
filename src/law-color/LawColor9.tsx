@@ -24,7 +24,7 @@ const SvgLawColor9 = (props: IIconProps) => (
     />
     <path
       fill="#ed7d45"
-      d="M18.018 25.072l9.956-10.616 9.013 8.453-9.956 10.615z"
+      d="M18.018 25.072l9.957-10.616 9.012 8.453-9.956 10.615z"
     />
     <path
       fill="#fff"

@@ -16,7 +16,7 @@ const SvgOfficeColor14 = (props: IIconProps) => (
   >
     <style>
       {
-        ".OfficeColor14_svg__st1,.OfficeColor14_svg__st2,.OfficeColor14_svg__st3{fill:#253759}.OfficeColor14_svg__st2{clip-path:url(#OfficeColor14_svg__SVGID_2_)}.OfficeColor14_svg__st3{clip-path:url(#OfficeColor14_svg__SVGID_4_)}.OfficeColor14_svg__st4{fill:#fff}.OfficeColor14_svg__st10{opacity:.3;fill:#253759}"
+        ".OfficeColor14_svg__st1,.OfficeColor14_svg__st2,.OfficeColor14_svg__st3{fill:#253759}.OfficeColor14_svg__st2,.OfficeColor14_svg__st3{clip-path:url(#OfficeColor14_svg__SVGID_2_)}.OfficeColor14_svg__st3{clip-path:url(#OfficeColor14_svg__SVGID_4_)}.OfficeColor14_svg__st4{fill:#fff}.OfficeColor14_svg__st5{fill:#a6d6ff}.OfficeColor14_svg__st10{opacity:.3;fill:#253759}"
       }
     </style>
     <pattern
@@ -29,7 +29,7 @@ const SvgOfficeColor14 = (props: IIconProps) => (
       patternUnits="userSpaceOnUse"
       viewBox="43 -43 42.9 43"
     >
-      <path fill="none" d="M43-43h42.9V0H43z" />
+      <path d="M43-43h42.9V0H43z" fill="none" />
       <circle cx={85.9} cy={-41.2} r={0.6} className="OfficeColor14_svg__st1" />
       <circle cx={85.9} cy={-37.6} r={0.6} className="OfficeColor14_svg__st1" />
       <circle cx={85.9} cy={-34} r={0.6} className="OfficeColor14_svg__st1" />
@@ -1162,8 +1162,8 @@ const SvgOfficeColor14 = (props: IIconProps) => (
       className="OfficeColor14_svg__st1"
     />
     <path
-      d="M61.5 155.9h168.4v9H61.5zM231 96.1l2.4 13.3-7.5-3.3-159.1 28.6-1.6-8.9zm19-18L8.4 120.7c-1.2-2.1-2.1-4.5-2.5-7-.1-.5-.2-1.1-.2-1.6-.1-.8-.1-1.6-.1-2.4 0-1.2.1-2.3.3-3.5l242-42.7c.8 1.5 1.4 3.1 1.8 4.8.1.5.3 1 .4 1.6.5 2.8.4 5.6-.1 8.2zm-45.1 122.4L50.3 222.1 46 191h157.6z"
-      fill="#a6d6ff"
+      d="M61.5 155.9h168.4v9H61.5zM231 96.1l2.4 13.3-7.5-3.3-159.1 28.6-1.6-8.9zM250 78.1L8.4 120.7c-1.2-2.1-2.1-4.5-2.5-7-.1-.5-.2-1.1-.2-1.6-.1-.8-.1-1.6-.1-2.4 0-1.2.1-2.3.3-3.5l242-42.7c.8 1.5 1.4 3.1 1.8 4.8.1.5.3 1 .4 1.6.5 2.8.4 5.6-.1 8.2zM204.9 200.5L50.3 222.1 46 191h157.6z"
+      className="OfficeColor14_svg__st5"
     />
     <pattern
       id="OfficeColor14_svg__SVGID_7_"
@@ -1171,8 +1171,8 @@ const SvgOfficeColor14 = (props: IIconProps) => (
       xlinkHref="#OfficeColor14_svg__New_Pattern_Swatch_1"
     />
     <path
-      fill="url(#OfficeColor14_svg__SVGID_7_)"
       d="M61.5 155.9h168.4v9H61.5z"
+      fill="url(#OfficeColor14_svg__SVGID_7_)"
     />
     <path
       d="M230.2 165.2l-84.3.1-84.4.3c-.4 0-.8-.3-.8-.8v-9c0-.4.4-.8.8-.8l21-.2 21-.1h42.1l42.1.2 21 .2 21 .3c.1 0 .2.1.2.2.3 3.3.3 6.5.3 9.6zm-.7-.7c0-2.9 0-5.7.1-8.7l.2.2-21 .3-21 .2-42.1.2h-42.1l-21-.1-21-.2.8-.8v9l-.8-.8 84 .3 83.9.4z"
@@ -1184,8 +1184,8 @@ const SvgOfficeColor14 = (props: IIconProps) => (
       xlinkHref="#OfficeColor14_svg__New_Pattern_Swatch_1"
     />
     <path
-      fill="url(#OfficeColor14_svg__SVGID_8_)"
       d="M231 96.1l2.4 13.3-7.5-3.3-159.1 28.6-1.6-8.9z"
+      fill="url(#OfficeColor14_svg__SVGID_8_)"
     />
     <path
       d="M231.2 95.8c.8 4.5 1.6 9.1 2.3 13.6 0 .1 0 .2-.1.2h-.1l-7.5-3.2h.1L67 135.5c-.4.1-.9-.2-.9-.7l-1.6-8.9c-.1-.5.2-.9.7-1L86 121l20.8-3.7c13.9-2.5 27.8-5 41.6-7.4l41.5-7.1 41.3-7zm-.4.6l-41.5 7.8-41.3 7.7c-13.8 2.6-27.5 5-41.2 7.5L86 123l-20.7 3.6.7-1 1.6 8.9-.9-.7 159.2-27.9h.1l7.5 3.3-.2.2c-.9-4.4-1.8-8.7-2.5-13zM30.4 173.3c16.9.1 33.9.1 50.8.1l50.8-.3c16.9-.1 33.9-.3 50.8-.2 16.9.2 33.9.3 50.8.9.1 0 .1 0 .1.1s0 .1-.1.1c-16.9.6-33.9.7-50.8.9-16.9.1-33.9-.1-50.8-.2l-50.8-.3c-16.9 0-33.9 0-50.8.1-.3 0-.6-.3-.6-.6s.2-.6.6-.6c-.1 0-.1 0 0 0z"
@@ -1197,8 +1197,8 @@ const SvgOfficeColor14 = (props: IIconProps) => (
       xlinkHref="#OfficeColor14_svg__New_Pattern_Swatch_1"
     />
     <path
-      fill="url(#OfficeColor14_svg__SVGID_9_)"
       d="M250 78.1L8.4 120.7c-1.2-2.1-2.1-4.5-2.5-7-.1-.5-.2-1.1-.2-1.6-.1-.8-.1-1.6-.1-2.4 0-1.2.1-2.3.3-3.5l242-42.7c.8 1.5 1.4 3.1 1.8 4.8.1.5.3 1 .4 1.6.5 2.8.4 5.6-.1 8.2z"
+      fill="url(#OfficeColor14_svg__SVGID_9_)"
     />
     <path
       d="M250.2 78.3L8.6 121.4c-.3.1-.6-.1-.8-.4-1.3-2.2-2.1-4.7-2.6-7.2-.1-.6-.2-1.3-.2-1.9l-.2-1.9c0-1.3.1-2.6.3-3.9.1-.3.3-.6.6-.7l60.5-10.8 60.5-10.7 60.5-10.5 30.3-5.1 30.3-5c.1 0 .2 0 .3.1.6 1.1 1.1 2.3 1.5 3.5.4 1.2.7 2.4.9 3.7.2 1.2.3 2.5.2 3.8 0 .6-.1 1.3-.1 1.9 0 .3-.1.6-.1.9l-.1.5c-.1.2-.1.4-.2.6zm-.4-.4v-.3l.1-.4c0-.3.1-.6.1-.9.1-.6.1-1.2.1-1.8 0-1.2 0-2.5-.2-3.7-.2-1.2-.5-2.4-.8-3.6-.4-1.2-.8-2.3-1.4-3.4l.3.1-30.2 5.6-30.3 5.5L127 85.9 66.5 96.5 6 107.1l.6-.7c-.2 1.2-.3 2.4-.3 3.6l.1 1.8c0 .6.1 1.2.2 1.8.4 2.4 1.2 4.7 2.4 6.7l-.8-.4 241.6-42z"
@@ -1210,8 +1210,8 @@ const SvgOfficeColor14 = (props: IIconProps) => (
       xlinkHref="#OfficeColor14_svg__New_Pattern_Swatch_1"
     />
     <path
-      fill="url(#OfficeColor14_svg__SVGID_10_)"
       d="M204.9 200.5L50.3 222.1 46 191h157.6z"
+      fill="url(#OfficeColor14_svg__SVGID_10_)"
     />
     <path
       d="M205.7 201.1l-77.9 10.6c-13 1.7-25.8 3.6-38.7 5.4l-19.4 2.7-19.3 2.9c-.3 0-.6-.2-.6-.5l-4.4-31.1c-.1-.4.2-.7.5-.7h.1l39.4-.1h39.4l39.4.2 19.7.1 19.7.2c.1 0 .2.1.2.2.7 3.1 1.4 6.6 1.9 10.1zm-1.6-1.2c-.4-2.8-.6-5.7-.7-8.8l.2.2-19.7.2-19.7.1-39.4.2H85.4l-39.4-.1.6-.7 4.3 31.1-.6-.5 19.3-2.6 19.3-2.7c12.8-1.8 25.7-3.5 38.5-5.4l76.7-11z"

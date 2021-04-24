@@ -9,13 +9,13 @@ const SvgTo = (props: IIconProps) => (
     height="1em"
     {...props}
   >
-    <path fill="#ff4b55" d="M0 0h512v512H0z" />
+    <path fill="#FF4B55" d="M0 0h512v512H0z" />
     <path
-      fill="#f5f5f5"
+      fill="#F5F5F5"
       d="M248.5 238.532H0V0h256v231.031a7.5 7.5 0 01-7.5 7.501z"
     />
     <path
-      fill="#ff4b55"
+      fill="#FF4B55"
       d="M218 88.035h-60.035V28H97.93v60.035H37.895v60.035H97.93v60.035h60.035V148.07H218z"
     />
   </svg>

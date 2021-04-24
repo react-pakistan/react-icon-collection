@@ -88,12 +88,12 @@ const SvgBlockchainColor8 = (props: IIconProps) => (
       fill="#434A54"
       d="M49.36 24.13l-.02.021a2.977 2.977 0 00-2.021-1.13l.22-1.99c.21-1.99.48-4.49-2.51-4.81.97-.2 2-.25 3.04-.141 1.66.18 3.17.75 4.47 1.62 1.891 2.33-.069 3.91-1.63 5.17l-1.549 1.26z"
     />
-    <path fill="#656D78" d="M58 11h-5l-3-3h5zm-10 0h-5l-3-3h5z" />
-    <path fill="#656D78" d="M53 11h-5l-3-3h5zm-10 0h-5l-3-3h5z" />
+    <path fill="#656D78" d="M58 11h-5l-3-3h5zM48 11h-5l-3-3h5z" />
+    <path fill="#656D78" d="M53 11h-5l-3-3h5zM43 11h-5l-3-3h5z" />
     <path fill="#656D78" d="M38 11h-5l-3-3h5z" />
     <path fill="#656D78" d="M33 11h-5l-3-3h5z" />
     <path fill="#656D78" d="M28 11h-5l-3-3h5z" />
-    <path fill="#656D78" d="M23 11h-5l-3-3h5zm-10 0H7V8h3z" />
+    <path fill="#656D78" d="M23 11h-5l-3-3h5zM13 11H7V8h3z" />
     <path fill="#656D78" d="M18 11h-5l-3-3h5z" />
     <path
       fill="#ED5565"

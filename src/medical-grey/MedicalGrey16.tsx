@@ -19,7 +19,7 @@ const SvgMedicalGrey16 = (props: IIconProps) => (
     </defs>
     <g id="MedicalGrey16_svg__location">
       <path
-        d="M32 31.95V18.5m-6.8 6.72h13.6m-24.09.38c0 9.55 15.36 23 17.29 31.09 2.26-8.19 17.29-21.54 17.29-31.09a17.29 17.29 0 10-34.58 0z"
+        d="M32 31.95V18.5M25.2 25.22h13.6M14.71 25.6c0 9.55 15.36 23 17.29 31.09 2.26-8.19 17.29-21.54 17.29-31.09a17.29 17.29 0 10-34.58 0z"
         className="MedicalGrey16_svg__cls-1"
       />
       <circle

@@ -34,8 +34,8 @@ const SvgFoodDishesColor5 = (props: IIconProps) => (
             />
             <path
               id="FoodDishesColor5_svg___Path_3"
-              fill="#f1eddb"
               d="M5.2 38.1s.6 14.1 14.5 19.1H46c14-5 14.5-19.1 14.5-19.1"
+              fill="#f1eddb"
             />
             <path
               id="FoodDishesColor5_svg___Path_4"
@@ -103,8 +103,8 @@ const SvgFoodDishesColor5 = (props: IIconProps) => (
             />
             <path
               id="FoodDishesColor5_svg___Path_16"
-              fill="#f06a54"
               d="M24.4 25.1c-.6 1.2-1 2.5-1 3.8h8.7c-1.8-2.4-4.7-6.2-4.7-6.2-1.2.3-2.3 1.2-3 2.4z"
+              fill="#f06a54"
             />
             <path
               id="FoodDishesColor5_svg___Path_17"
@@ -113,11 +113,11 @@ const SvgFoodDishesColor5 = (props: IIconProps) => (
             />
             <path
               id="FoodDishesColor5_svg___Path_18"
+              d="M8.5 23.5s3.1-11.6 16.9-8.7"
               fill="none"
               stroke="#262525"
-              strokeMiterlimit={10}
               strokeWidth={2}
-              d="M8.5 23.5s3.1-11.6 16.9-8.7"
+              strokeMiterlimit={10}
             />
             <path
               id="FoodDishesColor5_svg___Path_19"

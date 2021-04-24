@@ -38,13 +38,13 @@ const SvgFoodDishesColor10 = (props: IIconProps) => (
             </g>
             <path
               id="FoodDishesColor10_svg___Path_"
+              d="M39.7 20L63 30.9"
               fill="none"
               stroke="#262525"
-              strokeDasharray="1.000000e-02,7"
+              strokeWidth={2}
               strokeLinecap="round"
               strokeLinejoin="round"
-              strokeWidth={2}
-              d="M39.7 20L63 30.9"
+              strokeDasharray="1.000000e-02,7"
             />
             <path
               id="FoodDishesColor10_svg___Path_2"

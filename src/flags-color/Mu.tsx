@@ -9,10 +9,10 @@ const SvgMu = (props: IIconProps) => (
     height="1em"
     {...props}
   >
-    <path fill="#ff4b55" d="M0 0h512v128.5H0z" />
-    <path fill="#41479b" d="M0 128.5h512V256H0z" />
-    <path fill="#ffe15a" d="M0 256h512v127.5H0z" />
-    <path fill="#73af00" d="M0 383.5h512V512H0z" />
+    <path fill="#FF4B55" d="M0 0h512v128.5H0z" />
+    <path fill="#41479B" d="M0 128.5h512V256H0z" />
+    <path fill="#FFE15A" d="M0 256h512v127.5H0z" />
+    <path fill="#73AF00" d="M0 383.5h512V512H0z" />
   </svg>
 );
 

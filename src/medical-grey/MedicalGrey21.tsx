@@ -23,7 +23,7 @@ const SvgMedicalGrey21 = (props: IIconProps) => (
         className="MedicalGrey21_svg__cls-1"
       />
       <path
-        d="M24.53 38.1l-5.61 9.31 13.03-.7 12.8.7-5.43-9.31m.1-16.93c0 4.93-3.31 11.93-7.41 11.93s-7.43-7-7.43-11.93l4.12-3.54"
+        d="M24.53 38.1l-5.61 9.31 13.03-.7 12.8.7-5.43-9.31M39.42 21.17c0 4.93-3.31 11.93-7.41 11.93s-7.43-7-7.43-11.93l4.12-3.54"
         className="MedicalGrey21_svg__cls-1"
       />
       <path
@@ -31,7 +31,7 @@ const SvgMedicalGrey21 = (props: IIconProps) => (
         className="MedicalGrey21_svg__cls-1"
       />
       <path
-        d="M45.41 6.53l-3.89 11.1h-19.8l-3.37-11.1h27.06zm-5.99 14.64l-4.24-3.54m-3.17-3.24V9.76m-2.34 2.32h4.68m-2.4 34.63v10"
+        d="M45.41 6.53l-3.89 11.1h-19.8l-3.37-11.1h27.06zM39.42 21.17l-4.24-3.54M32.01 14.39V9.76M29.67 12.08h4.68M31.95 46.71v10"
         className="MedicalGrey21_svg__cls-1"
       />
     </g>

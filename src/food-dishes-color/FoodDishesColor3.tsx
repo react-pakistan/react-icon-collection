@@ -24,13 +24,13 @@ const SvgFoodDishesColor3 = (props: IIconProps) => (
           <g id="FoodDishesColor3_svg___Group_2">
             <path
               id="FoodDishesColor3_svg___Rectangle_"
-              fill="#8a9e3b"
               d="M15.1 56.9h31.3c0 2.5-2 4.5-4.5 4.5H19.6c-2.5 0-4.5-2-4.5-4.5z"
+              fill="#8a9e3b"
             />
             <path
               id="FoodDishesColor3_svg___Path_"
-              fill="#f06a54"
               d="M22.7 19.3c-2.4 2.6-3.3 6.3-2.4 9.7.4 1.4.9 2.4.6 3.8-.6 3.3 1.1 5 3.1 6.9 1.4 1.2 3.3 1.7 5.1 1.3l.4-.1c1.2-.1 2.4.1 3.4.7 3.9 2 8.9.7 8.9.7-1-1 1.1-3.4 1.1-3.4 4.5-5.3-5.3-14.7-5.3-14.7S28.3 14.5 23 19"
+              fill="#f06a54"
             />
             <g id="FoodDishesColor3_svg___Group_3">
               <path
@@ -51,22 +51,22 @@ const SvgFoodDishesColor3 = (props: IIconProps) => (
             />
             <path
               id="FoodDishesColor3_svg___Compound_Path_"
+              d="M51.7 13.6c5 .7 12 5.1 11.2 14.3-.5 5.6-4.1 9.7-10.8 12.5"
               fill="none"
               stroke="#262525"
-              strokeDasharray="1.000000e-02,7"
+              strokeWidth={2}
               strokeLinecap="round"
               strokeLinejoin="round"
-              strokeWidth={2}
-              d="M51.7 13.6c5 .7 12 5.1 11.2 14.3-.5 5.6-4.1 9.7-10.8 12.5"
+              strokeDasharray="1.000000e-02,7"
             />
             <path
               id="FoodDishesColor3_svg___Path_4"
+              d="M44 34.3c5.8-1.1 5.9-6.8 1.9-11.6 0 0 1.7-.7 4.2 1.6 1.1 1.1 2.7.3 3-1.2.4-2-.4-3.7-1.9-5.8 0 0 8.8 1.3 8 10.3-.7 7.5-9.7 10.2-16.3 11.5"
               fill="none"
               stroke="#262525"
+              strokeWidth={2}
               strokeLinecap="round"
               strokeLinejoin="round"
-              strokeWidth={2}
-              d="M44 34.3c5.8-1.1 5.9-6.8 1.9-11.6 0 0 1.7-.7 4.2 1.6 1.1 1.1 2.7.3 3-1.2.4-2-.4-3.7-1.9-5.8 0 0 8.8 1.3 8 10.3-.7 7.5-9.7 10.2-16.3 11.5"
             />
             <path
               id="FoodDishesColor3_svg___Path_5"

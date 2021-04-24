@@ -134,7 +134,7 @@ const SvgLogisticsColor8 = (props: IIconProps) => (
       transform="rotate(90 63.451 175.138)"
     />
     <path
-      d="M105.2 168.4h14.9v-3H91.6v3h10.6zm-13.6 13.4H120v3.1H91.6z"
+      d="M105.2 168.4h14.9v-3H91.6v3h10.6zM91.6 181.8H120v3.1H91.6z"
       className="LogisticsColor8_svg__st2"
     />
     <path
@@ -188,7 +188,7 @@ const SvgLogisticsColor8 = (props: IIconProps) => (
       transform="rotate(90 187.56 121.782)"
     />
     <path
-      d="M172.3 154.3h-13.6v15.5h24.5v-15.5h-7.9zm21.1 0h24.5v2.4h-24.5zm0 13.1h24.5v2.4h-24.5z"
+      d="M172.3 154.3h-13.6v15.5h24.5v-15.5h-7.9zM193.4 154.3h24.5v2.4h-24.5zM193.4 167.4h24.5v2.4h-24.5z"
       className="LogisticsColor8_svg__st2"
     />
     <path

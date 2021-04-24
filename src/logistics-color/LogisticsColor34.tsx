@@ -140,7 +140,7 @@ const SvgLogisticsColor34 = (props: IIconProps) => (
       className="LogisticsColor34_svg__st4"
     />
     <path
-      d="M81.8 82.6h3.5v22.3h-3.5zm23.2 0h3.5v22.3H105zm-11.6 0h3.5v22.3h-3.5zm-23.2 0h3.5v22.3h-3.5zm-11.6 0h3.5v22.3h-3.5zm-11.4 38.3h3.5v22.3h-3.5zm23.1 0h3.5v22.3h-3.5zm-11.6 0h3.5v22.3h-3.5zm-23.1 0h3.5v22.3h-3.5zm-11.6 0h3.5v22.3H24zm92.4 0h3.5v22.3h-3.5zm23.2 0h3.5v22.3h-3.5zm-11.6 0h3.5v22.3H128zm-23.2 13.5v-13.5h3.5v22.4h-3.5V138z"
+      d="M81.8 82.6h3.5v22.3h-3.5zM105 82.6h3.5v22.3H105zM93.4 82.6h3.5v22.3h-3.5zM70.2 82.6h3.5v22.3h-3.5zM58.6 82.6h3.5v22.3h-3.5zM47.2 120.9h3.5v22.3h-3.5zM70.3 120.9h3.5v22.3h-3.5zM58.7 120.9h3.5v22.3h-3.5zM35.6 120.9h3.5v22.3h-3.5zM24 120.9h3.5v22.3H24zM116.4 120.9h3.5v22.3h-3.5zM139.6 120.9h3.5v22.3h-3.5zM128 120.9h3.5v22.3H128zM104.8 134.4v-13.5h3.5v22.4h-3.5V138z"
       className="LogisticsColor34_svg__st5"
     />
     <path
@@ -148,7 +148,7 @@ const SvgLogisticsColor34 = (props: IIconProps) => (
       className="LogisticsColor34_svg__st4"
     />
     <path
-      d="M196.9 49.8h-8.8V35.1h33.6v14.7h-19.4zm-8.8 12.6h33.6v14.7h-33.6z"
+      d="M196.9 49.8h-8.8V35.1h33.6v14.7h-19.4zM188.1 62.4h33.6v14.7h-33.6z"
       className="LogisticsColor34_svg__st3"
     />
     <path

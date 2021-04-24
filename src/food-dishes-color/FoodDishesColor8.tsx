@@ -24,13 +24,13 @@ const SvgFoodDishesColor8 = (props: IIconProps) => (
           <g id="FoodDishesColor8_svg___Group_2">
             <path
               id="FoodDishesColor8_svg___Path_"
-              fill="#849b3b"
               d="M46.6 58.1V60c0 1.4-1.2 2.6-2.6 2.6H20c-1.4 0-2.6-1.2-2.6-2.6v-1.8"
+              fill="#849b3b"
             />
             <path
               id="FoodDishesColor8_svg___Path_2"
-              fill="#fbab1a"
               d="M40.6 58.3h4.1c6.7 0 12.4-5.1 13.1-11.8v-.8H61c1 0 1.9-.8 1.9-1.8S62.1 42 61 42H2.9c-1 0-1.9.8-1.9 1.9 0 1 .8 1.9 1.9 1.9h3.2v.8c.7 6.7 6.4 11.8 13.1 11.8h21.4z"
+              fill="#fbab1a"
             />
             <g id="FoodDishesColor8_svg___Group_3">
               <path
@@ -58,8 +58,8 @@ const SvgFoodDishesColor8 = (props: IIconProps) => (
               <g id="FoodDishesColor8_svg___Group_5">
                 <path
                   id="FoodDishesColor8_svg___Path_7"
-                  fill="#f26756"
                   d="M29.1 25.2c-1.6-1.6-4.3-1.3-5.7-1-2.7.7-5.2 2-7.4 3.9 1.2-.6 2.5-1.1 3.9-1.4 1.7-.4 4.7-.7 6.6 1.1s1.5 4.9 1.1 6.6c-.3 1.4-.8 2.8-1.5 4 1.9-2.1 3.3-4.7 4-7.5.3-1.5.6-4.1-1-5.7z"
+                  fill="#f26756"
                 />
               </g>
               <path
@@ -109,13 +109,13 @@ const SvgFoodDishesColor8 = (props: IIconProps) => (
             />
             <path
               id="FoodDishesColor8_svg___Path_11"
+              d="M22.2 17.9c-4.6 1.1-8.9 3.5-12.2 7-3.7 3.5-6.2 8.1-7.2 13.2"
               fill="none"
               stroke="#262525"
-              strokeDasharray="1.000000e-02,7"
+              strokeWidth={2}
               strokeLinecap="round"
               strokeLinejoin="round"
-              strokeWidth={2}
-              d="M22.2 17.9c-4.6 1.1-8.9 3.5-12.2 7-3.7 3.5-6.2 8.1-7.2 13.2"
+              strokeDasharray="1.000000e-02,7"
             />
           </g>
         </g>
