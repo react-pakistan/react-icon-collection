@@ -1,6 +1,6 @@
 {
   "name": "@react-pakistan/react-icon-collection",
-  "version": "3.2.16",
+  "version": "3.2.17",
   "description": "React Icons Collection built upon React StoryBook",
   "module": "lib/index.js",
   "main": "lib/index.js",
