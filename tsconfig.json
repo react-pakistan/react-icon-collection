@@ -15,9 +15,9 @@
     ],
   },
   "include": [
-    "./images.d.ts",
+    "./src/**/*.tsx",
     "./src/**/*.ts",
-    "./src/**/*.tsx"
+    "./images.d.ts"
   ],
   "exclude": [
     "./.storybook",
